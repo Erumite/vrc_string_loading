@@ -1,0 +1,52 @@
+List of models, textures, scripts and other assets used:
+  Hopefully I got them all.  Including CC0 and similar. :3
+
+### Scripts 
+
+* UdonTether :: squiddingme (MIT)
+   -  https://github.com/squiddingme/UdonTether
+   -  Modified from base to allow unwinding and interact with other movement systems.
+
+
+### Shaders
+
+* Water Shader :: Mochie (MIT)
+  -  https://github.com/MochiesCode/Mochies-Unity-Shaders
+  -  Modified to get stenciling working properly.
+
+
+### 3D Models
+
+* Turtle :: rkuhl (Royalty Free)
+  -  https://www.cgtrader.com/free-3d-models/animals/reptile/turtle-50dcc3ee-b898-4265-9f88-0b91d64923e0
+* Squirrel :: rexer-3d (Royalty Free)
+  -  https://www.cgtrader.com/free-3d-print-models/art/sculptures/low-poly-squirrel-51dd12fb-c969-4fbd-b6a1-cafe1aad5746
+* Fishing Rod :: emelyarules (CC Attribution)
+  -  https://sketchfab.com/3d-models/fishing-rod-86c77e3d23d341cd90245c21402f68b9
+  - Modified mesh/texture to fit the fishing system and world theme.
+
+### Audio
+
+* Failure Menu Sound :: rhodesmas (Attribution 3.0)
+  -  https://freesound.org/people/rhodesmas/sounds/342756/
+* Menu Open Sound :: SilverIllusionist (Attribution 4.0)
+  -  https://freesound.org/people/SilverIllusionist/sounds/667844/
+* Menu Close Sound :: Sjonas88 (CC0)
+  -  https://freesound.org/people/Sjonas88/sounds/538540/
+* Menu Button Press: Nightflame (CC0)
+  -  https://freesound.org/people/Nightflame/sounds/397599/
+* Water Splash 1 :: swordofkings128 (CC0)
+  -  https://freesound.org/people/swordofkings128/sounds/398039/
+* Water Splash 2 :: Kayyy (Attribution 3.0)
+  -  https://freesound.org/people/Kayyy/sounds/61015/
+* Save Failed :: Blackie666 (CC0)
+  -  https://freesound.org/people/Blackie666/sounds/111694/
+* Save Success :: Gronkjaer (CC0)
+  -  https://freesound.org/people/Gronkjaer/sounds/654321/
+* Waves :: klankbeeld (Attribution 4.0)
+  - https://freesound.org/people/klankbeeld/sounds/243825/
+
+### Misc
+
+* Perfect DOS VGA 437 Font : Zeh Fernando
+  -  https://fontmeme.com/fonts/perfect-dos-vga-437-font/
