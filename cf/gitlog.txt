@@ -1,0 +1,258 @@
+16b70bb crystal anims + pen reset for canvas
+4fcb289 bake & push
+f16a32d Adding Colored Floating Trees - Pre-Bake
+d847afe testing grow/shrink sound + tweaks to splash sounds
+485cdfd fgsfds
+f515ff8 fix stairs & organize falling script
+9fb12f9 blend tweaks + wind in trees
+9bc3ede Particle Toggles Optimizations
+3418dd6 Falling sound + new sway shader for flowers
+2cc0588 Yet more underwater sound fixes.
+f1cc5d4 More optimizations for underwater sounds.
+3ee6bcf more audio - underwater + fix glass shader
+846a284 waves optimization to avoid double position update
+2aea89a Working Shore Waves audio.
+59b6b76 modeling and adding new ramp
+fc8ebb9 Fix leaf positioning & VR jumpdash direction
+af53fab potential fix for VR Jumpdash direction
+c0abc86 Fix for reeling in VR
+66b5f90 fix boulder meshes
+f42a5cd sky flower + anim fixes & boulders & light bake fix
+6488b06 Crystal Changes - May need bake changes after.
+c18eb2b Floating Islands + Rotation
+7ec9061 shorter grass on sea stacks
+a201caa depleted spirit animals
+be9e5bf grass on sea stacks
+670f077 Remove some dev/debug stuff
+bcfadad Add wind flowers
+c20a91e delete blend11 file
+88fe45d Octopus bug fix & fire flowers
+62c4077 Update SDK
+04c7fb9 update packages.
+578b09b potential fix for index jumpdash
+cea55be initial working canvas system & change to leaves on tree
+2479ccc Working on camcorder setup
+9fd3e23 Fix Octopus animations & starting on Chroma Crayon Setup.
+4c5b90e UdonSettings
+03e4e81 update mathematics package
+3562d17 Working crayon + fiddling with compile crash fix.
+ea9a8d0 U# settings
+a1efcf9 Update Amplify & Copy over old chroma crayon scripts.
+e4ec46e hands on movie room ceiling
+0faf99f Update Packages
+cf05f8a Update AUD
+1fc8b2b update packages
+1231d1c update packages
+e25cf92 update packages
+f5df765 [PUBLISH]
+337d7fb futzing with lilypad textures seeming weird.
+6892f07 squirrel & tether-jump unlock
+4799172 Pre-Bake Save
+d42a5e4 Octopus up and running with chase sequence
+75767eb rework of movement system to be buff based for save integrity
+997b080 light probes for sea stacks + pre-bake commit
+e2e7236 Tweaks to the seastack jumping puzzle & fixing octopus model.
+5a5959b Upload & fix octopus animation looping
+06d1f9e Adding sea stacks for squid-boi.
+ef83eb5 Adding logit to keep menu from going into the ground for short avatars/crouching people.  Also some fishing poking.
+8d7924e Grapple->Jump working.  Needs an unlock to be usable in world. :D
+6295e37 Add save success/fail sounds
+ff19bce Gotta remember to disable navigation events in UI elements. -_-
+116d35d up to 30 movement unlocks in save string to give expandability
+304302e steps to hopefully fix duplication of rabbit speed buff when loading settings
+31985ec Working save/load menu screen - just needs an actual save string parser.
+0554f22 Buffs Menu working.
+72b2f96 Fix tethering to wisp menu interact & to menu.
+7ccd4a0 [UPLOAD] some menu SFX and status page mostly done on the menu.
+ba2a53f Doing more menu stuff.  There's so much crap. D:
+b22afcc [PUSH] added goober and updated wisp prefabs to summon a useless menu
+7522815 Menu spawning/positioning good now.
+71cc2bb Add _SPECULARHIGHLIGHTS_OFF to video player screen shader to avoid weird discoloration
+68b4a11 Hopefully working custom wisps + some visual tweaks to menu.
+19ad23f Yet more menu work.  There's no end in sight. D:
+ea38d30 Making more menu icons and getting layouts in place for status page
+f10f696 Adding menu icons and setting up header section
+0afb747 Start setting up wisp menu & add post-commit hooks to KeyBase log
+d946e25 Prebake - fiddled with a little menu stuff.
+1f0bd2a Fix spirit animal shader.
+9b0af7e baked all the shit.
+365a2d3 More Screen Tweaks to get RT GI
+7f66988 rebake
+8305c9e fiddling with lighting settings - trying bake again
+d679614 I think I changed some stuff and the wireframe shader doesn't backframe cull now
+4574d27 publish
+6cda3a4 ready for bake
+eb16e99 add stairs
+08e131f pushed update
+7bb7eb4 add pier - prebake
+cebbd23 finished with the movie room, I think
+0c289a2 scene cleanup and enable global GI baking
+b7a7139 probes pre-rebake
+97a74bf Movie cave set up - pre-bake
+6adfdd1 Movie room and extra exit
+03a8469 cleanup todo
+b0cd045 added grass with occlusion
+7639e3a Adding grass mat to versioning.
+8868fa7 break up grass for occlusion optimizations.
+c228194 push + minor changes to grass mesh again.
+398aa2f more grass mesh cleanup
+d79a8f8 edit grass mesh
+ec8c247 Add Silent's foliage shader
+7f94f98 pushed update
+04dff65 adjust mats and bake settings before rebake
+d2c4bf7 123
+93a067b Lilypad color blindness fix + grass mesh + xiexe grass + grass/rock mesh cleanup.
+f49fa02 Pushed & afterward fixed water splash collider grappling.
+3154c28 modeled up a tree house.
+e2e51ec Fix for spirit rabbit and wisp respawn
+6547a52 apparently something changed in the unity file during the last push.
+1d0a0a8 updating debugLog system for all the scripts missing it (hopefully)
+2f0e2ea Splash sounds and starting to set up octopus/jumpdash
+2ef5528 Logic for JumpDash added to DoubleJumpController
+1ee5afd NoRespawnZone sample and fiddling with the start of a fishing system.
+1f9787f Optimizations to DoubleJump to remove the Update() loop
+2eae2d9 Fix frog animations & maybe the rabbit collider trigger
+8c078eb push to VRC
+4b43173 New Wisp Model + Lookat
+1ec0d66 change floatybed pickup to water layer so tethers can't grab it.
+fcc93dd Double Jump + Frog Anims for activation
+a965000 compressing & fixing tether onto wisp collider.
+d3ee258 ready to push again
+abc8de3 Fix underwater pre-bake
+dc6fc3c Built new probes for all the lilypads - time to bake.
+c6c5e6f updated wisps with a following deadzone
+ec3a9aa wisps hopefully fixed for good.
+9287281 maybe fix syncing wisps a bit when people leave.
+928751f only callMyWisp from the entry queue
+9eb68ae yet another rewrite of wisps to fix ever-incrementing playerID
+b592ef1 butterflies in entryway
+c6c0176 Working leave effects - just need to delay wisp spawn for later joiners.
+9d3d096 Wisps work I think?  Time for some live testing.
+156d186 semi-working wisps - before refactor to individual responsibility
+50283eb more attempts at fixing wisp
+7deb12e Unity wasnt starting so I recompiled all the serialized udon programs
+5b0f47c fix for startup syncing for wisp followers
+e57550c maybe it'll work this time
+0ac35b5 Object sync on others' wisps & fix spawn sound
+e7cda33 Working wisp spawns - mostly local - need to fix other players' wisps.
+ec27913 another wisp fix?
+8e0f587 More Fix Attempts
+71ff955 Spawning seems to work?  Poking at wisps now.
+d48c8d0 test upload
+4200192 fix reset & add retries to queue
+9fe640b Working on fixing spawning in.
+971d657 potentially working entry/wisp managers
+a40d36c fgsfds
+7f6bdc1 Reworking so much stuff - hitting a save point.
+3b092c1 Wisp Manager Tweaking
+b1e32de Publish live for testing
+5d64893 Player follows turtle when riding it.
+40e31e6 outer cloud blocker
+9731228 ditch clouds for now
+e9ba4fd fiddling with fog in skybox
+876a0e1 Fix particle system mesh sizes
+5d5dab5 Fix tether vr grabbing & turtle root collisions.
+17fb47a working(?) wisp prototype.
+339d9d0 Starting on Wisp companions and refactor of movement controller system.
+17dd65f fish
+0f6f3e5 New Push Time.
+7918fd9 More Lightmapping Settings Tweaking - Pre-Bake
+7937b84 Done Baking
+d77f1f9 Trying to fix bake times.
+a18e644 dead trees around periphery
+f29ee45 deleting blend1 files
+801ddce Setting all the tether stuff to Manual sync to test before updating script headers.
+421bd2f Tethering Fixed!
+0b84c15 potential tether fix.
+28de350 todo reminder
+fd767c6 Possible tethering fix & occlusion bake
+0e018d4 Build and push.
+fd5b3eb changed a lot of texture import settings to match the style
+ec3061e ignore blend1 files
+2a62aee Campfire Vista setup & Pre-Bake
+f43d419 stop tracking bakery times and finished with bake
+8705357 Done with light/reflection probe setup.  :D  one more bake before upload.
+980e9f1 Trying to fix bakery problems.
+da71c69 baking again
+9daad97 Adding a ramp outside + fixing lantern plant materials
+357b0f7 Turtle swimming & Sync
+e38e4eb Added a turtle that doesn't do anything yet.
+249820d Tether Allow Unwinding in Desktop & Boost unwind rates.
+74eb4d9 pushed updates
+ecd8feb tweak winding speed
+02ae573 Spider anim tweak
+1b3e155 Fix the damn rabbit.
+12756a1 fix rabbit double-activation & tweak tether controller settings
+555935c allow winding with jump button in VR and Desktop
+a7f3f79 allow winding with jump button in VR and Desktop
+711130e depleted rabbit visible after activating
+ffc30c0 Import AirTime and Tether + Setup Spider and Grappling
+384bb23 Rabbit Done!
+35f5b48 Fix Speed or something
+16009b2 the fuk
+fb21f97 Working Rabbit!?
+64c4c4a Potentially finished Rabbit
+f1c20e9 starting on rabbit - sleep time
+49932a4 Fixed floaty bed bandwidth usage - time to bake yet again
+b550cbd Floaty Bed Fix
+adb6370 new lighting & bake
+3a6ffc1 setting up area lights + upper probes
+69f5b22 Baked and ready to upload new version
+f9a339f Pre-Bake
+159ad76 resize shrooms and auto-disable underwater shader when not near it.
+7b8a0b6 many crystals
+a2edcaa Crystal prefabs and root setup start - paranoia save after power flash.
+2f43cfb shrooms roughed into place
+941c165 Mushroom Prefabs Made - Need EasyScatter
+f4705b3 Import mushroom stuff and fiddling with fog tests
+5368812 debug items & fix frog collider
+96ac050 water shader fix and leave sou nd
+4241f8c Cloud rings pre-push.
+372cd31 Disable auto-compile.  Fuck that noise.
+a78a8cd Working frog + movement modifier system. :D
+9801922 Ignore ClientSim temp files
+03c3174 nearly done with movement controller
+f79b074 paranoia save + disable locking on player
+602d6b4 paranoia commit
+b9a801a Import Canvas and starting frog setup.
+2963a14 Fix spawn crystal heights
+40fce89 Reorganize & add movement controller beginnings
+dc21bc6 Working Pickup Crystal - need to test sync
+6c6dcb0 Everything baked - ready to upload.
+7fd8d44 New Git Repo Test
+f0f640b [Prebake] more floatybed material shit
+d2ea746 Fix spawn order and floaty bed shader
+2b074d1 Back to ground zero.
+82b84ae Baked and uploaded - before another bake
+854ec4d Tunnel Crystals PreBake
+d50e616 tweaks to bakery settings before rebake
+b2d503a Root Crystals roughed into place.
+285e9b0 Fixing imports on terrain grass and raindrops - getting audio right for join
+1f66161 Pre-Bake Paranoia
+3d5ebfa Added lanterns to tree and refined prefabs.
+d01bfc4 add lantern plants & make prefabs
+4937a42 Import Texel stuff and fix water shaders.
+1dd05a5 debug logging tweaks
+c138273 Working FloatyBed
+a941dc9 Import AutoProbe & Keep
+2ae9415 remove baked data from git and add to gitignore
+6d64f87 Remove Simple Light Probe Placer
+4c509ae probes generated - doing full bake
+6eb540b import new crystal holdable mesh and set up some light probes - pre-bake
+9a9f4ce Spawn Crystals Work
+7941555 Skybox Controller Script
+ddfff14 import and setup 3d skybox basics
+4306493 Locally working Spawn Crystals
+32aa0e9 Missing shroom mat
+49ecb7d Import TextMesh Pro Essentials
+63c03e4 Import UdonToolkit to resolve LVHeader errors
+29ea647 import of working scene from old project
+6b00832 import and keep mochie water shader
+ea2a6c1 Import & Keep SimpleLightProbePlacer
+1a33acc Import and kep enhanced heirarchy
+eef9084 Import EasyScatter and keep
+a9dfe01 I guess some shit recompiled
+75ada1a Import bakery but ignore the big dirs.
+53eb095 Import Amplify but gitignore it
+ccba068 Initial Import plus GitHub plugin
+15d59e6 Initial commit
