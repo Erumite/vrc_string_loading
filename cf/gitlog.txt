@@ -1,258 +1,260 @@
-16b70bb crystal anims + pen reset for canvas
-4fcb289 bake & push
-f16a32d Adding Colored Floating Trees - Pre-Bake
-d847afe testing grow/shrink sound + tweaks to splash sounds
-485cdfd fgsfds
-f515ff8 fix stairs & organize falling script
-9fb12f9 blend tweaks + wind in trees
-9bc3ede Particle Toggles Optimizations
-3418dd6 Falling sound + new sway shader for flowers
-2cc0588 Yet more underwater sound fixes.
-f1cc5d4 More optimizations for underwater sounds.
-3ee6bcf more audio - underwater + fix glass shader
-846a284 waves optimization to avoid double position update
-2aea89a Working Shore Waves audio.
-59b6b76 modeling and adding new ramp
-fc8ebb9 Fix leaf positioning & VR jumpdash direction
-af53fab potential fix for VR Jumpdash direction
-c0abc86 Fix for reeling in VR
-66b5f90 fix boulder meshes
-f42a5cd sky flower + anim fixes & boulders & light bake fix
-6488b06 Crystal Changes - May need bake changes after.
-c18eb2b Floating Islands + Rotation
-7ec9061 shorter grass on sea stacks
-a201caa depleted spirit animals
-be9e5bf grass on sea stacks
-670f077 Remove some dev/debug stuff
-bcfadad Add wind flowers
-c20a91e delete blend11 file
-88fe45d Octopus bug fix & fire flowers
-62c4077 Update SDK
-04c7fb9 update packages.
-578b09b potential fix for index jumpdash
-cea55be initial working canvas system & change to leaves on tree
-2479ccc Working on camcorder setup
-9fd3e23 Fix Octopus animations & starting on Chroma Crayon Setup.
-4c5b90e UdonSettings
-03e4e81 update mathematics package
-3562d17 Working crayon + fiddling with compile crash fix.
-ea9a8d0 U# settings
-a1efcf9 Update Amplify & Copy over old chroma crayon scripts.
-e4ec46e hands on movie room ceiling
-0faf99f Update Packages
-cf05f8a Update AUD
-1fc8b2b update packages
-1231d1c update packages
-e25cf92 update packages
-f5df765 [PUBLISH]
-337d7fb futzing with lilypad textures seeming weird.
-6892f07 squirrel & tether-jump unlock
-4799172 Pre-Bake Save
-d42a5e4 Octopus up and running with chase sequence
-75767eb rework of movement system to be buff based for save integrity
-997b080 light probes for sea stacks + pre-bake commit
-e2e7236 Tweaks to the seastack jumping puzzle & fixing octopus model.
-5a5959b Upload & fix octopus animation looping
-06d1f9e Adding sea stacks for squid-boi.
-ef83eb5 Adding logit to keep menu from going into the ground for short avatars/crouching people.  Also some fishing poking.
-8d7924e Grapple->Jump working.  Needs an unlock to be usable in world. :D
-6295e37 Add save success/fail sounds
-ff19bce Gotta remember to disable navigation events in UI elements. -_-
-116d35d up to 30 movement unlocks in save string to give expandability
-304302e steps to hopefully fix duplication of rabbit speed buff when loading settings
-31985ec Working save/load menu screen - just needs an actual save string parser.
-0554f22 Buffs Menu working.
-72b2f96 Fix tethering to wisp menu interact & to menu.
-7ccd4a0 [UPLOAD] some menu SFX and status page mostly done on the menu.
-ba2a53f Doing more menu stuff.  There's so much crap. D:
-b22afcc [PUSH] added goober and updated wisp prefabs to summon a useless menu
-7522815 Menu spawning/positioning good now.
-71cc2bb Add _SPECULARHIGHLIGHTS_OFF to video player screen shader to avoid weird discoloration
-68b4a11 Hopefully working custom wisps + some visual tweaks to menu.
-19ad23f Yet more menu work.  There's no end in sight. D:
-ea38d30 Making more menu icons and getting layouts in place for status page
-f10f696 Adding menu icons and setting up header section
-0afb747 Start setting up wisp menu & add post-commit hooks to KeyBase log
-d946e25 Prebake - fiddled with a little menu stuff.
-1f0bd2a Fix spirit animal shader.
-9b0af7e baked all the shit.
-365a2d3 More Screen Tweaks to get RT GI
-7f66988 rebake
-8305c9e fiddling with lighting settings - trying bake again
-d679614 I think I changed some stuff and the wireframe shader doesn't backframe cull now
-4574d27 publish
-6cda3a4 ready for bake
-eb16e99 add stairs
-08e131f pushed update
-7bb7eb4 add pier - prebake
-cebbd23 finished with the movie room, I think
-0c289a2 scene cleanup and enable global GI baking
-b7a7139 probes pre-rebake
-97a74bf Movie cave set up - pre-bake
-6adfdd1 Movie room and extra exit
-03a8469 cleanup todo
-b0cd045 added grass with occlusion
-7639e3a Adding grass mat to versioning.
-8868fa7 break up grass for occlusion optimizations.
-c228194 push + minor changes to grass mesh again.
-398aa2f more grass mesh cleanup
-d79a8f8 edit grass mesh
-ec8c247 Add Silent's foliage shader
-7f94f98 pushed update
-04dff65 adjust mats and bake settings before rebake
-d2c4bf7 123
-93a067b Lilypad color blindness fix + grass mesh + xiexe grass + grass/rock mesh cleanup.
-f49fa02 Pushed & afterward fixed water splash collider grappling.
-3154c28 modeled up a tree house.
-e2e51ec Fix for spirit rabbit and wisp respawn
-6547a52 apparently something changed in the unity file during the last push.
-1d0a0a8 updating debugLog system for all the scripts missing it (hopefully)
-2f0e2ea Splash sounds and starting to set up octopus/jumpdash
-2ef5528 Logic for JumpDash added to DoubleJumpController
-1ee5afd NoRespawnZone sample and fiddling with the start of a fishing system.
-1f9787f Optimizations to DoubleJump to remove the Update() loop
-2eae2d9 Fix frog animations & maybe the rabbit collider trigger
-8c078eb push to VRC
-4b43173 New Wisp Model + Lookat
-1ec0d66 change floatybed pickup to water layer so tethers can't grab it.
-fcc93dd Double Jump + Frog Anims for activation
-a965000 compressing & fixing tether onto wisp collider.
-d3ee258 ready to push again
-abc8de3 Fix underwater pre-bake
-dc6fc3c Built new probes for all the lilypads - time to bake.
-c6c5e6f updated wisps with a following deadzone
-ec3a9aa wisps hopefully fixed for good.
-9287281 maybe fix syncing wisps a bit when people leave.
-928751f only callMyWisp from the entry queue
-9eb68ae yet another rewrite of wisps to fix ever-incrementing playerID
-b592ef1 butterflies in entryway
-c6c0176 Working leave effects - just need to delay wisp spawn for later joiners.
-9d3d096 Wisps work I think?  Time for some live testing.
-156d186 semi-working wisps - before refactor to individual responsibility
-50283eb more attempts at fixing wisp
-7deb12e Unity wasnt starting so I recompiled all the serialized udon programs
-5b0f47c fix for startup syncing for wisp followers
-e57550c maybe it'll work this time
-0ac35b5 Object sync on others' wisps & fix spawn sound
-e7cda33 Working wisp spawns - mostly local - need to fix other players' wisps.
-ec27913 another wisp fix?
-8e0f587 More Fix Attempts
-71ff955 Spawning seems to work?  Poking at wisps now.
-d48c8d0 test upload
-4200192 fix reset & add retries to queue
-9fe640b Working on fixing spawning in.
-971d657 potentially working entry/wisp managers
-a40d36c fgsfds
-7f6bdc1 Reworking so much stuff - hitting a save point.
-3b092c1 Wisp Manager Tweaking
-b1e32de Publish live for testing
-5d64893 Player follows turtle when riding it.
-40e31e6 outer cloud blocker
-9731228 ditch clouds for now
-e9ba4fd fiddling with fog in skybox
-876a0e1 Fix particle system mesh sizes
-5d5dab5 Fix tether vr grabbing & turtle root collisions.
-17fb47a working(?) wisp prototype.
-339d9d0 Starting on Wisp companions and refactor of movement controller system.
-17dd65f fish
-0f6f3e5 New Push Time.
-7918fd9 More Lightmapping Settings Tweaking - Pre-Bake
-7937b84 Done Baking
-d77f1f9 Trying to fix bake times.
-a18e644 dead trees around periphery
-f29ee45 deleting blend1 files
-801ddce Setting all the tether stuff to Manual sync to test before updating script headers.
-421bd2f Tethering Fixed!
-0b84c15 potential tether fix.
-28de350 todo reminder
-fd767c6 Possible tethering fix & occlusion bake
-0e018d4 Build and push.
-fd5b3eb changed a lot of texture import settings to match the style
-ec3061e ignore blend1 files
-2a62aee Campfire Vista setup & Pre-Bake
-f43d419 stop tracking bakery times and finished with bake
-8705357 Done with light/reflection probe setup.  :D  one more bake before upload.
-980e9f1 Trying to fix bakery problems.
-da71c69 baking again
-9daad97 Adding a ramp outside + fixing lantern plant materials
-357b0f7 Turtle swimming & Sync
-e38e4eb Added a turtle that doesn't do anything yet.
-249820d Tether Allow Unwinding in Desktop & Boost unwind rates.
-74eb4d9 pushed updates
-ecd8feb tweak winding speed
-02ae573 Spider anim tweak
-1b3e155 Fix the damn rabbit.
-12756a1 fix rabbit double-activation & tweak tether controller settings
-555935c allow winding with jump button in VR and Desktop
-a7f3f79 allow winding with jump button in VR and Desktop
-711130e depleted rabbit visible after activating
-ffc30c0 Import AirTime and Tether + Setup Spider and Grappling
-384bb23 Rabbit Done!
-35f5b48 Fix Speed or something
-16009b2 the fuk
-fb21f97 Working Rabbit!?
-64c4c4a Potentially finished Rabbit
-f1c20e9 starting on rabbit - sleep time
-49932a4 Fixed floaty bed bandwidth usage - time to bake yet again
-b550cbd Floaty Bed Fix
-adb6370 new lighting & bake
-3a6ffc1 setting up area lights + upper probes
-69f5b22 Baked and ready to upload new version
-f9a339f Pre-Bake
-159ad76 resize shrooms and auto-disable underwater shader when not near it.
-7b8a0b6 many crystals
-a2edcaa Crystal prefabs and root setup start - paranoia save after power flash.
-2f43cfb shrooms roughed into place
-941c165 Mushroom Prefabs Made - Need EasyScatter
-f4705b3 Import mushroom stuff and fiddling with fog tests
-5368812 debug items & fix frog collider
-96ac050 water shader fix and leave sou nd
-4241f8c Cloud rings pre-push.
-372cd31 Disable auto-compile.  Fuck that noise.
-a78a8cd Working frog + movement modifier system. :D
-9801922 Ignore ClientSim temp files
-03c3174 nearly done with movement controller
-f79b074 paranoia save + disable locking on player
-602d6b4 paranoia commit
-b9a801a Import Canvas and starting frog setup.
-2963a14 Fix spawn crystal heights
-40fce89 Reorganize & add movement controller beginnings
-dc21bc6 Working Pickup Crystal - need to test sync
-6c6dcb0 Everything baked - ready to upload.
-7fd8d44 New Git Repo Test
-f0f640b [Prebake] more floatybed material shit
-d2ea746 Fix spawn order and floaty bed shader
-2b074d1 Back to ground zero.
-82b84ae Baked and uploaded - before another bake
-854ec4d Tunnel Crystals PreBake
-d50e616 tweaks to bakery settings before rebake
-b2d503a Root Crystals roughed into place.
-285e9b0 Fixing imports on terrain grass and raindrops - getting audio right for join
-1f66161 Pre-Bake Paranoia
-3d5ebfa Added lanterns to tree and refined prefabs.
-d01bfc4 add lantern plants & make prefabs
-4937a42 Import Texel stuff and fix water shaders.
-1dd05a5 debug logging tweaks
-c138273 Working FloatyBed
-a941dc9 Import AutoProbe & Keep
-2ae9415 remove baked data from git and add to gitignore
-6d64f87 Remove Simple Light Probe Placer
-4c509ae probes generated - doing full bake
-6eb540b import new crystal holdable mesh and set up some light probes - pre-bake
-9a9f4ce Spawn Crystals Work
-7941555 Skybox Controller Script
-ddfff14 import and setup 3d skybox basics
-4306493 Locally working Spawn Crystals
-32aa0e9 Missing shroom mat
-49ecb7d Import TextMesh Pro Essentials
-63c03e4 Import UdonToolkit to resolve LVHeader errors
-29ea647 import of working scene from old project
-6b00832 import and keep mochie water shader
-ea2a6c1 Import & Keep SimpleLightProbePlacer
-1a33acc Import and kep enhanced heirarchy
-eef9084 Import EasyScatter and keep
-a9dfe01 I guess some shit recompiled
-75ada1a Import bakery but ignore the big dirs.
-53eb095 Import Amplify but gitignore it
-ccba068 Initial Import plus GitHub plugin
-15d59e6 Initial commit
+eremite 11/20/23-01:30:10 Very basic swim system started & tested - Save Point
+eremite 11/19/23-02:20:28 remote string loading of changes/credits
+eremite 11/18/23-16:48:59 crystal anims + pen reset for canvas
+eremite 11/18/23-10:39:02 bake & push
+eremite 11/18/23-10:07:58 Adding Colored Floating Trees - Pre-Bake
+eremite 11/17/23-02:58:34 testing grow/shrink sound + tweaks to splash sounds
+eremite 11/16/23-23:09:28 fgsfds
+eremite 11/16/23-23:09:22 fix stairs & organize falling script
+eremite 11/16/23-22:09:43 blend tweaks + wind in trees
+eremite 11/16/23-06:12:51 Particle Toggles Optimizations
+eremite 11/16/23-00:05:49 Falling sound + new sway shader for flowers
+eremite 11/14/23-19:27:50 Yet more underwater sound fixes.
+eremite 11/14/23-19:24:09 More optimizations for underwater sounds.
+eremite 11/14/23-08:55:47 more audio - underwater + fix glass shader
+eremite 11/13/23-07:15:01 waves optimization to avoid double position update
+eremite 11/13/23-06:57:21 Working Shore Waves audio.
+eremite 11/13/23-00:45:56 modeling and adding new ramp
+eremite 11/12/23-07:12:30 Fix leaf positioning & VR jumpdash direction
+eremite 11/11/23-22:43:44 potential fix for VR Jumpdash direction
+eremite 11/11/23-21:52:27 Fix for reeling in VR
+eremite 11/11/23-06:21:52 fix boulder meshes
+eremite 11/11/23-05:25:26 sky flower + anim fixes & boulders & light bake fix
+eremite 11/05/23-22:59:06 Crystal Changes - May need bake changes after.
+eremite 11/05/23-18:35:48 Floating Islands + Rotation
+eremite 11/05/23-17:03:34 shorter grass on sea stacks
+eremite 11/05/23-17:01:29 depleted spirit animals
+eremite 11/05/23-04:44:35 grass on sea stacks
+eremite 11/04/23-03:17:12 Remove some dev/debug stuff
+eremite 11/04/23-03:00:48 Add wind flowers
+eremite 11/03/23-23:12:10 delete blend11 file
+eremite 11/03/23-23:10:48 Octopus bug fix & fire flowers
+eremite 10/22/23-20:50:39 Update SDK
+eremite 10/16/23-08:08:26 update packages.
+eremite 09/04/23-16:27:12 potential fix for index jumpdash
+eremite 07/16/23-17:58:59 initial working canvas system & change to leaves on tree
+eremite 07/16/23-06:01:17 Working on camcorder setup
+eremite 07/06/23-15:10:12 Fix Octopus animations & starting on Chroma Crayon Setup.
+eremite 07/02/23-01:32:51 UdonSettings
+eremite 07/02/23-01:32:07 update mathematics package
+eremite 07/01/23-21:21:11 Working crayon + fiddling with compile crash fix.
+eremite 06/30/23-21:40:03 U# settings
+eremite 06/30/23-21:22:36 Update Amplify & Copy over old chroma crayon scripts.
+eremite 06/30/23-14:16:48 hands on movie room ceiling
+eremite 06/30/23-14:16:24 Update Packages
+eremite 06/26/23-02:35:26 Update AUD
+eremite 06/19/23-22:16:37 update packages
+Eremite 06/09/23-17:19:00 update packages
+eremite 04/08/23-05:20:30 update packages
+eremite 01/23/23-10:25:00 [PUBLISH]
+eremite 01/23/23-09:57:24 futzing with lilypad textures seeming weird.
+eremite 01/23/23-09:27:45 squirrel & tether-jump unlock
+eremite 01/23/23-08:30:44 Pre-Bake Save
+eremite 01/23/23-08:05:23 Octopus up and running with chase sequence
+eremite 01/22/23-14:53:05 rework of movement system to be buff based for save integrity
+eremite 01/20/23-04:03:03 light probes for sea stacks + pre-bake commit
+eremite 01/20/23-01:45:34 Tweaks to the seastack jumping puzzle & fixing octopus model.
+eremite 01/19/23-15:15:56 Upload & fix octopus animation looping
+eremite 01/19/23-14:45:30 Adding sea stacks for squid-boi.
+eremite 01/17/23-16:01:00 Adding logit to keep menu from going into the ground for short avatars/crouching people.  Also some fishing poking.
+eremite 01/17/23-03:02:00 Grapple->Jump working.  Needs an unlock to be usable in world. :D
+eremite 01/16/23-23:24:47 Add save success/fail sounds
+eremite 01/16/23-10:01:15 Gotta remember to disable navigation events in UI elements. -_-
+eremite 01/16/23-09:52:27 up to 30 movement unlocks in save string to give expandability
+eremite 01/16/23-09:41:45 steps to hopefully fix duplication of rabbit speed buff when loading settings
+eremite 01/16/23-09:27:29 Working save/load menu screen - just needs an actual save string parser.
+eremite 01/16/23-06:32:45 Buffs Menu working.
+eremite 01/16/23-04:49:17 Fix tethering to wisp menu interact & to menu.
+eremite 01/16/23-04:30:31 [UPLOAD] some menu SFX and status page mostly done on the menu.
+eremite 01/16/23-00:17:20 Doing more menu stuff.  There's so much crap. D:
+eremite 01/15/23-19:06:03 [PUSH] added goober and updated wisp prefabs to summon a useless menu
+eremite 01/15/23-03:29:42 Menu spawning/positioning good now.
+eremite 01/14/23-20:58:02 Add _SPECULARHIGHLIGHTS_OFF to video player screen shader to avoid weird discoloration
+eremite 01/14/23-19:40:29 Hopefully working custom wisps + some visual tweaks to menu.
+eremite 01/14/23-07:59:22 Yet more menu work.  There's no end in sight. D:
+eremite 01/14/23-06:31:59 Making more menu icons and getting layouts in place for status page
+eremite 01/14/23-03:49:14 Adding menu icons and setting up header section
+eremite 01/13/23-20:42:54 Start setting up wisp menu & add post-commit hooks to KeyBase log
+eremite 01/12/23-20:26:36 Prebake - fiddled with a little menu stuff.
+eremite 01/12/23-15:39:18 Fix spirit animal shader.
+eremite 01/11/23-21:30:26 baked all the shit.
+eremite 01/11/23-14:34:18 More Screen Tweaks to get RT GI
+eremite 01/11/23-13:10:19 rebake
+eremite 01/11/23-02:55:43 fiddling with lighting settings - trying bake again
+eremite 01/10/23-15:34:13 I think I changed some stuff and the wireframe shader doesn't backframe cull now
+eremite 01/08/23-21:06:42 publish
+eremite 01/08/23-20:44:44 ready for bake
+eremite 01/08/23-20:31:27 add stairs
+eremite 01/08/23-16:28:46 pushed update
+eremite 01/08/23-15:45:16 add pier - prebake
+eremite 01/08/23-06:05:10 finished with the movie room, I think
+eremite 01/08/23-05:19:14 scene cleanup and enable global GI baking
+eremite 01/08/23-05:04:15 probes pre-rebake
+eremite 01/08/23-04:38:25 Movie cave set up - pre-bake
+eremite 01/08/23-02:02:06 Movie room and extra exit
+eremite 01/06/23-23:11:56 cleanup todo
+eremite 01/06/23-22:46:19 added grass with occlusion
+eremite 01/06/23-22:30:01 Adding grass mat to versioning.
+eremite 01/06/23-22:29:10 break up grass for occlusion optimizations.
+eremite 01/06/23-21:57:58 push + minor changes to grass mesh again.
+eremite 01/06/23-21:35:08 more grass mesh cleanup
+eremite 01/06/23-21:03:31 edit grass mesh
+eremite 01/06/23-21:03:03 Add Silent's foliage shader
+eremite 01/06/23-20:23:55 pushed update
+eremite 01/06/23-19:51:23 adjust mats and bake settings before rebake
+eremite 01/06/23-19:35:59 123
+eremite 01/06/23-19:35:38 Lilypad color blindness fix + grass mesh + xiexe grass + grass/rock mesh cleanup.
+eremite 01/06/23-01:29:43 Pushed & afterward fixed water splash collider grappling.
+eremite 01/06/23-00:58:02 modeled up a tree house.
+eremite 01/05/23-16:47:19 Fix for spirit rabbit and wisp respawn
+eremite 01/04/23-23:03:34 apparently something changed in the unity file during the last push.
+eremite 01/04/23-23:01:42 updating debugLog system for all the scripts missing it (hopefully)
+eremite 01/04/23-22:48:35 Splash sounds and starting to set up octopus/jumpdash
+eremite 01/03/23-20:49:07 Logic for JumpDash added to DoubleJumpController
+eremite 01/03/23-20:48:05 NoRespawnZone sample and fiddling with the start of a fishing system.
+eremite 01/03/23-11:40:52 Optimizations to DoubleJump to remove the Update() loop
+eremite 01/02/23-22:33:33 Fix frog animations & maybe the rabbit collider trigger
+eremite 01/02/23-19:47:48 push to VRC
+eremite 01/02/23-19:43:11 New Wisp Model + Lookat
+eremite 01/02/23-18:03:58 change floatybed pickup to water layer so tethers can't grab it.
+eremite 01/02/23-17:35:34 Double Jump + Frog Anims for activation
+eremite 01/02/23-12:46:47 compressing & fixing tether onto wisp collider.
+eremite 01/02/23-11:45:57 ready to push again
+eremite 01/02/23-11:26:32 Fix underwater pre-bake
+eremite 01/02/23-10:43:46 Built new probes for all the lilypads - time to bake.
+eremite 01/02/23-09:29:41 updated wisps with a following deadzone
+eremite 01/01/23-20:44:46 wisps hopefully fixed for good.
+eremite 01/01/23-20:36:22 maybe fix syncing wisps a bit when people leave.
+eremite 01/01/23-19:19:06 only callMyWisp from the entry queue
+eremite 01/01/23-19:07:21 yet another rewrite of wisps to fix ever-incrementing playerID
+eremite 01/01/23-07:33:24 butterflies in entryway
+eremite 12/31/22-18:07:44 Working leave effects - just need to delay wisp spawn for later joiners.
+eremite 12/31/22-17:01:10 Wisps work I think?  Time for some live testing.
+eremite 12/31/22-13:09:06 semi-working wisps - before refactor to individual responsibility
+eremite 12/31/22-10:20:37 more attempts at fixing wisp
+eremite 12/31/22-10:20:23 Unity wasnt starting so I recompiled all the serialized udon programs
+eremite 12/30/22-19:45:30 fix for startup syncing for wisp followers
+eremite 12/30/22-19:11:27 maybe it'll work this time
+eremite 12/30/22-18:48:40 Object sync on others' wisps & fix spawn sound
+eremite 12/30/22-18:23:16 Working wisp spawns - mostly local - need to fix other players' wisps.
+eremite 12/30/22-18:05:16 another wisp fix?
+eremite 12/30/22-17:19:14 More Fix Attempts
+eremite 12/30/22-16:21:16 Spawning seems to work?  Poking at wisps now.
+eremite 12/30/22-13:42:56 test upload
+eremite 12/30/22-13:09:41 fix reset & add retries to queue
+eremite 12/30/22-12:43:31 Working on fixing spawning in.
+eremite 12/30/22-06:52:55 potentially working entry/wisp managers
+eremite 12/29/22-16:58:22 fgsfds
+eremite 12/29/22-16:09:46 Reworking so much stuff - hitting a save point.
+eremite 12/29/22-05:30:51 Wisp Manager Tweaking
+eremite 12/28/22-17:38:52 Publish live for testing
+eremite 12/28/22-17:20:16 Player follows turtle when riding it.
+eremite 12/28/22-15:37:40 outer cloud blocker
+eremite 12/28/22-15:32:34 ditch clouds for now
+eremite 12/28/22-15:31:18 fiddling with fog in skybox
+eremite 12/28/22-15:03:13 Fix particle system mesh sizes
+eremite 12/28/22-14:20:57 Fix tether vr grabbing & turtle root collisions.
+eremite 12/28/22-13:59:16 working(?) wisp prototype.
+eremite 12/28/22-08:12:25 Starting on Wisp companions and refactor of movement controller system.
+eremite 12/27/22-14:01:06 fish
+eremite 12/27/22-13:07:46 New Push Time.
+eremite 12/27/22-12:48:19 More Lightmapping Settings Tweaking - Pre-Bake
+eremite 12/27/22-12:24:21 Done Baking
+eremite 12/27/22-12:16:10 Trying to fix bake times.
+eremite 12/27/22-09:32:31 dead trees around periphery
+eremite 12/26/22-19:42:32 deleting blend1 files
+eremite 12/26/22-19:38:02 Setting all the tether stuff to Manual sync to test before updating script headers.
+eremite 12/26/22-19:35:56 Tethering Fixed!
+eremite 12/26/22-19:18:59 potential tether fix.
+eremite 12/26/22-18:31:18 todo reminder
+eremite 12/26/22-18:30:23 Possible tethering fix & occlusion bake
+eremite 12/26/22-17:34:53 Build and push.
+eremite 12/26/22-17:30:51 changed a lot of texture import settings to match the style
+eremite 12/26/22-16:47:28 ignore blend1 files
+eremite 12/26/22-16:46:16 Campfire Vista setup & Pre-Bake
+eremite 12/26/22-13:42:18 stop tracking bakery times and finished with bake
+eremite 12/26/22-13:36:22 Done with light/reflection probe setup.  :D  one more bake before upload.
+eremite 12/26/22-13:00:30 Trying to fix bakery problems.
+eremite 12/26/22-12:18:34 baking again
+eremite 12/26/22-11:58:34 Adding a ramp outside + fixing lantern plant materials
+eremite 12/26/22-07:58:03 Turtle swimming & Sync
+eremite 12/26/22-06:57:45 Added a turtle that doesn't do anything yet.
+eremite 12/25/22-21:02:49 Tether Allow Unwinding in Desktop & Boost unwind rates.
+eremite 12/25/22-16:23:31 pushed updates
+eremite 12/25/22-16:19:56 tweak winding speed
+eremite 12/25/22-16:11:15 Spider anim tweak
+eremite 12/25/22-16:03:11 Fix the damn rabbit.
+eremite 12/25/22-15:25:43 fix rabbit double-activation & tweak tether controller settings
+eremite 12/25/22-14:25:33 allow winding with jump button in VR and Desktop
+eremite 12/25/22-14:21:54 allow winding with jump button in VR and Desktop
+eremite 12/25/22-13:10:26 depleted rabbit visible after activating
+eremite 12/25/22-12:58:04 Import AirTime and Tether + Setup Spider and Grappling
+eremite 12/25/22-03:07:03 Rabbit Done!
+eremite 12/25/22-03:00:31 Fix Speed or something
+eremite 12/25/22-02:40:39 the fuk
+eremite 12/25/22-02:39:47 Working Rabbit!?
+eremite 12/25/22-02:21:22 Potentially finished Rabbit
+eremite 12/24/22-19:27:26 starting on rabbit - sleep time
+eremite 12/24/22-17:34:38 Fixed floaty bed bandwidth usage - time to bake yet again
+eremite 12/24/22-16:33:44 Floaty Bed Fix
+eremite 12/24/22-16:19:13 new lighting & bake
+eremite 12/24/22-15:14:43 setting up area lights + upper probes
+eremite 12/24/22-11:44:34 Baked and ready to upload new version
+eremite 12/24/22-11:16:08 Pre-Bake
+eremite 12/24/22-11:13:03 resize shrooms and auto-disable underwater shader when not near it.
+eremite 12/24/22-10:56:49 many crystals
+eremite 12/24/22-10:36:34 Crystal prefabs and root setup start - paranoia save after power flash.
+eremite 12/24/22-10:27:04 shrooms roughed into place
+eremite 12/24/22-10:04:14 Mushroom Prefabs Made - Need EasyScatter
+eremite 12/24/22-09:53:55 Import mushroom stuff and fiddling with fog tests
+eremite 12/24/22-07:51:47 debug items & fix frog collider
+eremite 12/24/22-06:08:16 water shader fix and leave sou nd
+eremite 12/23/22-18:43:51 Cloud rings pre-push.
+eremite 12/23/22-17:34:29 Disable auto-compile.  Fuck that noise.
+eremite 12/23/22-16:37:35 Working frog + movement modifier system. :D
+eremite 12/23/22-16:19:12 Ignore ClientSim temp files
+eremite 12/23/22-16:12:53 nearly done with movement controller
+eremite 12/23/22-14:54:36 paranoia save + disable locking on player
+eremite 12/23/22-13:42:55 paranoia commit
+eremite 12/23/22-12:48:52 Import Canvas and starting frog setup.
+eremite 12/23/22-10:27:54 Fix spawn crystal heights
+eremite 12/23/22-10:25:36 Reorganize & add movement controller beginnings
+eremite 12/23/22-09:22:32 Working Pickup Crystal - need to test sync
+eremite 12/23/22-05:27:24 Everything baked - ready to upload.
+eremite 12/23/22-05:16:28 New Git Repo Test
+eremite 12/23/22-05:06:58 [Prebake] more floatybed material shit
+eremite 12/23/22-04:57:47 Fix spawn order and floaty bed shader
+eremite 12/23/22-03:58:31 Back to ground zero.
+eremite 12/23/22-03:46:23 Baked and uploaded - before another bake
+eremite 12/23/22-03:14:07 Tunnel Crystals PreBake
+eremite 12/22/22-19:21:01 tweaks to bakery settings before rebake
+eremite 12/22/22-19:05:58 Root Crystals roughed into place.
+eremite 12/22/22-18:26:05 Fixing imports on terrain grass and raindrops - getting audio right for join
+eremite 12/22/22-17:14:12 Pre-Bake Paranoia
+eremite 12/22/22-17:12:56 Added lanterns to tree and refined prefabs.
+eremite 12/22/22-16:42:03 add lantern plants & make prefabs
+eremite 12/22/22-16:14:37 Import Texel stuff and fix water shaders.
+eremite 12/22/22-15:54:02 debug logging tweaks
+eremite 12/22/22-15:48:42 Working FloatyBed
+eremite 12/22/22-15:22:48 Import AutoProbe & Keep
+eremite 12/22/22-15:21:10 remove baked data from git and add to gitignore
+eremite 12/22/22-15:18:03 Remove Simple Light Probe Placer
+eremite 12/22/22-12:36:46 probes generated - doing full bake
+eremite 12/22/22-12:18:08 import new crystal holdable mesh and set up some light probes - pre-bake
+eremite 12/22/22-10:51:27 Spawn Crystals Work
+eremite 12/22/22-09:14:08 Skybox Controller Script
+eremite 12/22/22-08:59:11 import and setup 3d skybox basics
+eremite 12/22/22-07:45:52 Locally working Spawn Crystals
+eremite 12/22/22-06:14:53 Missing shroom mat
+eremite 12/22/22-06:04:59 Import TextMesh Pro Essentials
+eremite 12/22/22-06:03:55 Import UdonToolkit to resolve LVHeader errors
+eremite 12/22/22-06:00:45 import of working scene from old project
+eremite 12/22/22-05:50:47 import and keep mochie water shader
+eremite 12/21/22-18:34:16 Import & Keep SimpleLightProbePlacer
+eremite 12/21/22-18:32:45 Import and kep enhanced heirarchy
+eremite 12/21/22-18:30:40 Import EasyScatter and keep
+eremite 12/21/22-18:30:26 I guess some shit recompiled
+eremite 12/21/22-18:26:37 Import bakery but ignore the big dirs.
+eremite 12/21/22-18:18:49 Import Amplify but gitignore it
+eremite 12/21/22-18:15:26 Initial Import plus GitHub plugin
+eremite 12/21/22-18:10:06 Initial commit
