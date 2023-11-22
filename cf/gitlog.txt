@@ -1,3 +1,17 @@
+eremite 11/22/23-02:48:39 Improved (but still bad) surfacing for swim - breath system and basic indicator.
+eremite 11/20/23-12:47:07 More swim system tweaks + notes update
+eremite 11/20/23-11:08:00 [SerializeField] on Wisp Menu
+eremite 11/20/23-11:00:16 Disable JumpDash and DoubleJump while swimming
+eremite 11/20/23-10:47:05 [SerializeField] for EntryQueueManager
+eremite 11/20/23-10:38:53 [SerializeField] for SpawnPointPositionManager
+eremite 11/20/23-10:37:29 SerializeFields for EntryQueueManager Spawner Triggers
+eremite 11/20/23-10:16:44 hacky resync for floatybed animator on move
+eremite 11/20/23-09:58:28 More serialize field work on Rabbi+Turtle Sync
+eremite 11/20/23-09:56:18 [SerializeField] for water splashes
+eremite 11/20/23-09:52:27 Octopus spook / chase squence is now local - optimized script a bit.
+eremite 11/20/23-09:48:46 C# String Interpolation to improve GarbageCollector performance.
+eremite 11/20/23-08:13:25 Working rudimentary swim system - some kinks to work out and fine tune.
+eremite 11/20/23-01:41:02 updates to change log generator
 eremite 11/20/23-01:30:10 Very basic swim system started & tested - Save Point
 eremite 11/19/23-02:20:28 remote string loading of changes/credits
 eremite 11/18/23-16:48:59 crystal anims + pen reset for canvas
