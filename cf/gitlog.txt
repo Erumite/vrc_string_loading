@@ -1,3 +1,14 @@
+eremite 11/24/23-06:57:09 Occlusion bake & menu stuff.
+eremite 11/23/23-11:05:21 fiddling with menu decor
+eremite 11/23/23-09:19:22 pitch shifting swim SFX + movement tweaks
+eremite 11/22/23-21:20:32 More menu work and audio optimizations to load in BG
+eremite 11/22/23-20:39:40 I dont rember.  Me forgor.
+eremite 11/22/23-19:47:52 Some basic swimming SFX
+eremite 11/22/23-15:08:03 Update menu with swimming info.
+eremite 11/22/23-14:53:42 Fix movement speed reset after wading + temp swim unlock
+eremite 11/22/23-14:26:53 Air pockets in main cave & no-drown volume logic added.
+eremite 11/22/23-13:34:42 Fix for slow wading speed.
+eremite 11/22/23-13:09:50 Fix change log update script to be executable with git-bash
 eremite 11/22/23-13:05:07 Build & Upload
 eremite 11/22/23-13:01:07 Small deco tweaks & rebake
 eremite 11/22/23-12:22:19 Swim System Bug Squashing
