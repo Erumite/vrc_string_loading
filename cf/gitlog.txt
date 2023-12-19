@@ -1,3 +1,4 @@
+eremite 12/19/23-08:54:36 Fix no-drown volumes in main cave
 eremite 12/19/23-08:45:03 Bake & Upload to VRC
 eremite 12/19/23-07:20:24 Attempt at fixing jump-dash triggering while grappling
 eremite 12/19/23-06:06:39 Alert animation hint for spirit rabbit when visible
@@ -247,74 +248,3 @@ eremite 12/25/22-16:03:11 Fix the damn rabbit.
 eremite 12/25/22-15:25:43 fix rabbit double-activation & tweak tether controller settings
 eremite 12/25/22-14:25:33 allow winding with jump button in VR and Desktop
 eremite 12/25/22-14:21:54 allow winding with jump button in VR and Desktop
-eremite 12/25/22-13:10:26 depleted rabbit visible after activating
-eremite 12/25/22-12:58:04 Import AirTime and Tether + Setup Spider and Grappling
-eremite 12/25/22-03:07:03 Rabbit Done!
-eremite 12/25/22-03:00:31 Fix Speed or something
-eremite 12/25/22-02:40:39 the fuk
-eremite 12/25/22-02:39:47 Working Rabbit!?
-eremite 12/25/22-02:21:22 Potentially finished Rabbit
-eremite 12/24/22-19:27:26 starting on rabbit - sleep time
-eremite 12/24/22-17:34:38 Fixed floaty bed bandwidth usage - time to bake yet again
-eremite 12/24/22-16:33:44 Floaty Bed Fix
-eremite 12/24/22-16:19:13 new lighting & bake
-eremite 12/24/22-15:14:43 setting up area lights + upper probes
-eremite 12/24/22-11:44:34 Baked and ready to upload new version
-eremite 12/24/22-11:16:08 Pre-Bake
-eremite 12/24/22-11:13:03 resize shrooms and auto-disable underwater shader when not near it.
-eremite 12/24/22-10:56:49 many crystals
-eremite 12/24/22-10:36:34 Crystal prefabs and root setup start - paranoia save after power flash.
-eremite 12/24/22-10:27:04 shrooms roughed into place
-eremite 12/24/22-10:04:14 Mushroom Prefabs Made - Need EasyScatter
-eremite 12/24/22-09:53:55 Import mushroom stuff and fiddling with fog tests
-eremite 12/24/22-07:51:47 debug items & fix frog collider
-eremite 12/24/22-06:08:16 water shader fix and leave sou nd
-eremite 12/23/22-18:43:51 Cloud rings pre-push.
-eremite 12/23/22-17:34:29 Disable auto-compile.  Fuck that noise.
-eremite 12/23/22-16:37:35 Working frog + movement modifier system. :D
-eremite 12/23/22-16:19:12 Ignore ClientSim temp files
-eremite 12/23/22-16:12:53 nearly done with movement controller
-eremite 12/23/22-14:54:36 paranoia save + disable locking on player
-eremite 12/23/22-13:42:55 paranoia commit
-eremite 12/23/22-12:48:52 Import Canvas and starting frog setup.
-eremite 12/23/22-10:27:54 Fix spawn crystal heights
-eremite 12/23/22-10:25:36 Reorganize & add movement controller beginnings
-eremite 12/23/22-09:22:32 Working Pickup Crystal - need to test sync
-eremite 12/23/22-05:27:24 Everything baked - ready to upload.
-eremite 12/23/22-05:16:28 New Git Repo Test
-eremite 12/23/22-05:06:58 [Prebake] more floatybed material shit
-eremite 12/23/22-04:57:47 Fix spawn order and floaty bed shader
-eremite 12/23/22-03:58:31 Back to ground zero.
-eremite 12/23/22-03:46:23 Baked and uploaded - before another bake
-eremite 12/23/22-03:14:07 Tunnel Crystals PreBake
-eremite 12/22/22-19:21:01 tweaks to bakery settings before rebake
-eremite 12/22/22-19:05:58 Root Crystals roughed into place.
-eremite 12/22/22-18:26:05 Fixing imports on terrain grass and raindrops - getting audio right for join
-eremite 12/22/22-17:14:12 Pre-Bake Paranoia
-eremite 12/22/22-17:12:56 Added lanterns to tree and refined prefabs.
-eremite 12/22/22-16:42:03 add lantern plants & make prefabs
-eremite 12/22/22-16:14:37 Import Texel stuff and fix water shaders.
-eremite 12/22/22-15:54:02 debug logging tweaks
-eremite 12/22/22-15:48:42 Working FloatyBed
-eremite 12/22/22-15:22:48 Import AutoProbe & Keep
-eremite 12/22/22-15:21:10 remove baked data from git and add to gitignore
-eremite 12/22/22-15:18:03 Remove Simple Light Probe Placer
-eremite 12/22/22-12:36:46 probes generated - doing full bake
-eremite 12/22/22-12:18:08 import new crystal holdable mesh and set up some light probes - pre-bake
-eremite 12/22/22-10:51:27 Spawn Crystals Work
-eremite 12/22/22-09:14:08 Skybox Controller Script
-eremite 12/22/22-08:59:11 import and setup 3d skybox basics
-eremite 12/22/22-07:45:52 Locally working Spawn Crystals
-eremite 12/22/22-06:14:53 Missing shroom mat
-eremite 12/22/22-06:04:59 Import TextMesh Pro Essentials
-eremite 12/22/22-06:03:55 Import UdonToolkit to resolve LVHeader errors
-eremite 12/22/22-06:00:45 import of working scene from old project
-eremite 12/22/22-05:50:47 import and keep mochie water shader
-eremite 12/21/22-18:34:16 Import & Keep SimpleLightProbePlacer
-eremite 12/21/22-18:32:45 Import and kep enhanced heirarchy
-eremite 12/21/22-18:30:40 Import EasyScatter and keep
-eremite 12/21/22-18:30:26 I guess some shit recompiled
-eremite 12/21/22-18:26:37 Import bakery but ignore the big dirs.
-eremite 12/21/22-18:18:49 Import Amplify but gitignore it
-eremite 12/21/22-18:15:26 Initial Import plus GitHub plugin
-eremite 12/21/22-18:10:06 Initial commit
