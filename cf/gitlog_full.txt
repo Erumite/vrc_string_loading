@@ -1,3 +1,17 @@
+eremite 12/26/23-00:47:59 Build & Upload
+eremite 12/26/23-00:37:33 More work on teleport system + Date-based toggle asset for Keako :3
+eremite 12/24/23-08:48:07 After Delete Temp+Library & Rebuild to fix(?) Unity Crashes
+eremite 12/24/23-03:27:16 Build & Upload
+eremite 12/24/23-03:15:12 2 more custom wisps  >:3
+eremite 12/24/23-01:48:04 More warp system tweaks & project settings tweaks to try to fix this Domain Reload bug.
+eremite 12/24/23-00:17:34 Fix respawn point facing direction
+eremite 12/23/23-05:18:58 mesh optimization tweaks + rebuild & upload
+eremite 12/23/23-05:07:19 Basic teleport positions in place with home point setting.
+eremite 12/23/23-04:19:08 tweaks to grass density & starting on a teleport menu
+eremite 12/20/23-02:40:31 Minor visual fixes for log bench/fire.
+eremite 12/20/23-01:21:29 Fire in the campfire.
+eremite 12/19/23-22:00:06 Trying to fix turtle sync yet again - also fix riding on turtle/islands
+eremite 12/19/23-11:33:21 Tweaks to change log truncating & display in menu.
 eremite 12/19/23-08:54:36 Fix no-drown volumes in main cave
 eremite 12/19/23-08:45:03 Bake & Upload to VRC
 eremite 12/19/23-07:20:24 Attempt at fixing jump-dash triggering while grappling
