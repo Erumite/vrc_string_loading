@@ -1,3 +1,9 @@
+eremite 12/30/23-12:43:15 Mostly working random weather system.
+eremite 12/30/23-12:22:42 More work on the weather system.
+eremite 12/29/23-21:44:43 Starting to work on a random weather/event system
+eremite 12/29/23-04:40:57 Fix blocker colliders & layers.
+eremite 12/26/23-07:15:37 Fix syncing on teleport unlocks when allowed globally
+eremite 12/26/23-01:07:12 Rebake Occlusion & Fix devlog script
 eremite 12/26/23-00:47:59 Build & Upload
 eremite 12/26/23-00:37:33 More work on teleport system + Date-based toggle asset for Keako :3
 eremite 12/24/23-08:48:07 After Delete Temp+Library & Rebuild to fix(?) Unity Crashes
@@ -242,9 +248,3 @@ eremite 12/26/22-19:38:02 Setting all the tether stuff to Manual sync to test be
 eremite 12/26/22-19:35:56 Tethering Fixed!
 eremite 12/26/22-19:18:59 potential tether fix.
 eremite 12/26/22-18:31:18 todo reminder
-eremite 12/26/22-18:30:23 Possible tethering fix & occlusion bake
-eremite 12/26/22-17:34:53 Build and push.
-eremite 12/26/22-17:30:51 changed a lot of texture import settings to match the style
-eremite 12/26/22-16:47:28 ignore blend1 files
-eremite 12/26/22-16:46:16 Campfire Vista setup & Pre-Bake
-eremite 12/26/22-13:42:18 stop tracking bakery times and finished with bake
