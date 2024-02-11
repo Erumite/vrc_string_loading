@@ -1,3 +1,5 @@
+eremite 02/11/24-14:09:57 Hopefully last edge case in Biolum - also let it follow underwater until deep water.
+eremite 02/11/24-13:27:12 More biolum edge cases & Update EZQuestSwitch
 eremite 02/11/24-12:59:12 Publish to DEV
 eremite 02/11/24-12:56:20 Found some biolum edge case bugs.
 eremite 02/11/24-12:42:47 Fix custom wisps & disable timing on Biolum
@@ -246,5 +248,3 @@ eremite 12/30/22-13:42:56 test upload
 eremite 12/30/22-13:09:41 fix reset & add retries to queue
 eremite 12/30/22-12:43:31 Working on fixing spawning in.
 eremite 12/30/22-06:52:55 potentially working entry/wisp managers
-eremite 12/29/22-16:58:22 fgsfds
-eremite 12/29/22-16:09:46 Reworking so much stuff - hitting a save point.
