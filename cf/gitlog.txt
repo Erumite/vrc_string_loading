@@ -1,3 +1,7 @@
+eremite 02/11/24-16:50:17 Push to DEV
+eremite 02/11/24-16:44:23 Better(?) texture & PS settings for biolum
+eremite 02/11/24-15:06:25 Forgot to update lifetime for custom wisps.
+eremite 02/11/24-14:41:03 Larger menu interact on wisps when in VR
 eremite 02/11/24-14:09:57 Hopefully last edge case in Biolum - also let it follow underwater until deep water.
 eremite 02/11/24-13:27:12 More biolum edge cases & Update EZQuestSwitch
 eremite 02/11/24-12:59:12 Publish to DEV
@@ -244,7 +248,3 @@ eremite 12/30/22-18:23:16 Working wisp spawns - mostly local - need to fix other
 eremite 12/30/22-18:05:16 another wisp fix?
 eremite 12/30/22-17:19:14 More Fix Attempts
 eremite 12/30/22-16:21:16 Spawning seems to work?  Poking at wisps now.
-eremite 12/30/22-13:42:56 test upload
-eremite 12/30/22-13:09:41 fix reset & add retries to queue
-eremite 12/30/22-12:43:31 Working on fixing spawning in.
-eremite 12/30/22-06:52:55 potentially working entry/wisp managers

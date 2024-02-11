@@ -1,3 +1,7 @@
+eremite 02/11/24-16:50:17 Push to DEV
+eremite 02/11/24-16:44:23 Better(?) texture & PS settings for biolum
+eremite 02/11/24-15:06:25 Forgot to update lifetime for custom wisps.
+eremite 02/11/24-14:41:03 Larger menu interact on wisps when in VR
 eremite 02/11/24-14:09:57 Hopefully last edge case in Biolum - also let it follow underwater until deep water.
 eremite 02/11/24-13:27:12 More biolum edge cases & Update EZQuestSwitch
 eremite 02/11/24-12:59:12 Publish to DEV
