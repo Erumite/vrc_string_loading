@@ -1,3 +1,24 @@
+eremite 02/11/24-12:59:12 Publish to DEV
+eremite 02/11/24-12:56:20 Found some biolum edge case bugs.
+eremite 02/11/24-12:42:47 Fix custom wisps & disable timing on Biolum
+eremite 02/11/24-00:07:47 Updated all players' biolum - saving before push to test.
+eremite 02/10/24-23:48:46 Bioluminescence follows players in water. :3
+eremite 02/10/24-20:33:00 update some packages
+eremite 02/10/24-17:30:33 code cleanup on playermanager
+eremite 02/10/24-15:03:27 Udon Recompiled
+eremite 02/10/24-14:47:01 another attempt at fixing turtle sync removing _
+eremite 01/10/24-01:56:07 Toggling fog visibility when inside a fog-hiding trigger (indoors)
+eremite 01/10/24-01:46:53 Logging for Y-rotation sync objects - I hate these things.
+eremite 01/08/24-20:51:25 Same - git plugin is janky.
+eremite 01/08/24-20:50:41 More work on Swim System & Fire Feeding
+eremite 01/08/24-06:31:18 Allow jump when surfaced in water.
+eremite 01/05/24-17:49:50 Starting Work on Feedable Campfire - Shader working
+eremite 01/01/24-18:55:39 Momentum reset when slamming world ceiling + Campfire material fix
+eremite 12/30/23-18:35:51 Campfire Audio (again?)
+eremite 12/30/23-18:34:44 Campfire Audio
+eremite 12/30/23-17:09:57 WoodPile model + PreBake
+eremite 12/30/23-13:23:36 Fix grappling rabbit collider + sync meteor origin rotation.
+eremite 12/30/23-12:51:16 Build & Upload :3
 eremite 12/30/23-12:43:15 Mostly working random weather system.
 eremite 12/30/23-12:22:42 More work on the weather system.
 eremite 12/29/23-21:44:43 Starting to work on a random weather/event system
@@ -227,24 +248,3 @@ eremite 12/30/22-12:43:31 Working on fixing spawning in.
 eremite 12/30/22-06:52:55 potentially working entry/wisp managers
 eremite 12/29/22-16:58:22 fgsfds
 eremite 12/29/22-16:09:46 Reworking so much stuff - hitting a save point.
-eremite 12/29/22-05:30:51 Wisp Manager Tweaking
-eremite 12/28/22-17:38:52 Publish live for testing
-eremite 12/28/22-17:20:16 Player follows turtle when riding it.
-eremite 12/28/22-15:37:40 outer cloud blocker
-eremite 12/28/22-15:32:34 ditch clouds for now
-eremite 12/28/22-15:31:18 fiddling with fog in skybox
-eremite 12/28/22-15:03:13 Fix particle system mesh sizes
-eremite 12/28/22-14:20:57 Fix tether vr grabbing & turtle root collisions.
-eremite 12/28/22-13:59:16 working(?) wisp prototype.
-eremite 12/28/22-08:12:25 Starting on Wisp companions and refactor of movement controller system.
-eremite 12/27/22-14:01:06 fish
-eremite 12/27/22-13:07:46 New Push Time.
-eremite 12/27/22-12:48:19 More Lightmapping Settings Tweaking - Pre-Bake
-eremite 12/27/22-12:24:21 Done Baking
-eremite 12/27/22-12:16:10 Trying to fix bake times.
-eremite 12/27/22-09:32:31 dead trees around periphery
-eremite 12/26/22-19:42:32 deleting blend1 files
-eremite 12/26/22-19:38:02 Setting all the tether stuff to Manual sync to test before updating script headers.
-eremite 12/26/22-19:35:56 Tethering Fixed!
-eremite 12/26/22-19:18:59 potential tether fix.
-eremite 12/26/22-18:31:18 todo reminder

@@ -1,3 +1,24 @@
+eremite 02/11/24-12:59:12 Publish to DEV
+eremite 02/11/24-12:56:20 Found some biolum edge case bugs.
+eremite 02/11/24-12:42:47 Fix custom wisps & disable timing on Biolum
+eremite 02/11/24-00:07:47 Updated all players' biolum - saving before push to test.
+eremite 02/10/24-23:48:46 Bioluminescence follows players in water. :3
+eremite 02/10/24-20:33:00 update some packages
+eremite 02/10/24-17:30:33 code cleanup on playermanager
+eremite 02/10/24-15:03:27 Udon Recompiled
+eremite 02/10/24-14:47:01 another attempt at fixing turtle sync removing _
+eremite 01/10/24-01:56:07 Toggling fog visibility when inside a fog-hiding trigger (indoors)
+eremite 01/10/24-01:46:53 Logging for Y-rotation sync objects - I hate these things.
+eremite 01/08/24-20:51:25 Same - git plugin is janky.
+eremite 01/08/24-20:50:41 More work on Swim System & Fire Feeding
+eremite 01/08/24-06:31:18 Allow jump when surfaced in water.
+eremite 01/05/24-17:49:50 Starting Work on Feedable Campfire - Shader working
+eremite 01/01/24-18:55:39 Momentum reset when slamming world ceiling + Campfire material fix
+eremite 12/30/23-18:35:51 Campfire Audio (again?)
+eremite 12/30/23-18:34:44 Campfire Audio
+eremite 12/30/23-17:09:57 WoodPile model + PreBake
+eremite 12/30/23-13:23:36 Fix grappling rabbit collider + sync meteor origin rotation.
+eremite 12/30/23-12:51:16 Build & Upload :3
 eremite 12/30/23-12:43:15 Mostly working random weather system.
 eremite 12/30/23-12:22:42 More work on the weather system.
 eremite 12/29/23-21:44:43 Starting to work on a random weather/event system
