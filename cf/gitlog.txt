@@ -1,3 +1,4 @@
+eremite 02/11/24-17:01:37 Optional color overrides for algae (for custom wisps)
 eremite 02/11/24-16:50:17 Push to DEV
 eremite 02/11/24-16:44:23 Better(?) texture & PS settings for biolum
 eremite 02/11/24-15:06:25 Forgot to update lifetime for custom wisps.
@@ -247,4 +248,3 @@ eremite 12/30/22-18:48:40 Object sync on others' wisps & fix spawn sound
 eremite 12/30/22-18:23:16 Working wisp spawns - mostly local - need to fix other players' wisps.
 eremite 12/30/22-18:05:16 another wisp fix?
 eremite 12/30/22-17:19:14 More Fix Attempts
-eremite 12/30/22-16:21:16 Spawning seems to work?  Poking at wisps now.
