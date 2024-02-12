@@ -1,3 +1,8 @@
+eremite 02/11/24-22:26:52 Build & Push new lightmaps.
+eremite 02/11/24-21:24:59 More bakery fiddling
+eremite 02/11/24-21:08:14 Derped my bakery settings.
+eremite 02/11/24-20:46:05 Pre-Bake Making changes to cave shrooms/bakery lighting.
+eremite 02/11/24-17:10:14 Auto-update changelog on git push.
 eremite 02/11/24-17:01:37 Optional color overrides for algae (for custom wisps)
 eremite 02/11/24-16:50:17 Push to DEV
 eremite 02/11/24-16:44:23 Better(?) texture & PS settings for biolum

@@ -1,3 +1,8 @@
+eremite 02/11/24-22:26:52 Build & Push new lightmaps.
+eremite 02/11/24-21:24:59 More bakery fiddling
+eremite 02/11/24-21:08:14 Derped my bakery settings.
+eremite 02/11/24-20:46:05 Pre-Bake Making changes to cave shrooms/bakery lighting.
+eremite 02/11/24-17:10:14 Auto-update changelog on git push.
 eremite 02/11/24-17:01:37 Optional color overrides for algae (for custom wisps)
 eremite 02/11/24-16:50:17 Push to DEV
 eremite 02/11/24-16:44:23 Better(?) texture & PS settings for biolum
@@ -243,8 +248,3 @@ eremite 12/31/22-13:09:06 semi-working wisps - before refactor to individual res
 eremite 12/31/22-10:20:37 more attempts at fixing wisp
 eremite 12/31/22-10:20:23 Unity wasnt starting so I recompiled all the serialized udon programs
 eremite 12/30/22-19:45:30 fix for startup syncing for wisp followers
-eremite 12/30/22-19:11:27 maybe it'll work this time
-eremite 12/30/22-18:48:40 Object sync on others' wisps & fix spawn sound
-eremite 12/30/22-18:23:16 Working wisp spawns - mostly local - need to fix other players' wisps.
-eremite 12/30/22-18:05:16 another wisp fix?
-eremite 12/30/22-17:19:14 More Fix Attempts
