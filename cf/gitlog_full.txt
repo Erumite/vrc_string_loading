@@ -1,3 +1,6 @@
+eremite 02/13/24-22:48:22 ObjectSync toggling on Wisps to reduce bandwidth.
+eremite 02/13/24-22:31:15 Disable object sync on biolum when not emitting to save bandwidth.
+eremite 02/13/24-16:46:01 Starting to collect drawings for art room
 eremite 02/12/24-02:14:41 Add hints for buffs.
 eremite 02/12/24-01:15:02 Menu improvements & hints for stuff not unlocked yet.
 eremite 02/11/24-22:30:27 Forgor to disable some test objects.

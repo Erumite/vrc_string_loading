@@ -1,3 +1,6 @@
+eremite 02/13/24-22:48:22 ObjectSync toggling on Wisps to reduce bandwidth.
+eremite 02/13/24-22:31:15 Disable object sync on biolum when not emitting to save bandwidth.
+eremite 02/13/24-16:46:01 Starting to collect drawings for art room
 eremite 02/12/24-02:14:41 Add hints for buffs.
 eremite 02/12/24-01:15:02 Menu improvements & hints for stuff not unlocked yet.
 eremite 02/11/24-22:30:27 Forgor to disable some test objects.
@@ -245,6 +248,3 @@ eremite 01/01/23-20:36:22 maybe fix syncing wisps a bit when people leave.
 eremite 01/01/23-19:19:06 only callMyWisp from the entry queue
 eremite 01/01/23-19:07:21 yet another rewrite of wisps to fix ever-incrementing playerID
 eremite 01/01/23-07:33:24 butterflies in entryway
-eremite 12/31/22-18:07:44 Working leave effects - just need to delay wisp spawn for later joiners.
-eremite 12/31/22-17:01:10 Wisps work I think?  Time for some live testing.
-eremite 12/31/22-13:09:06 semi-working wisps - before refactor to individual responsibility
