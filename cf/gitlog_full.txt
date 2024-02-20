@@ -1,3 +1,4 @@
+eremite 02/20/24-02:07:09 Butterfly particle mat shader, roughing in Dialogue System, entry queue optimizations, art room deco
 eremite 02/13/24-22:48:22 ObjectSync toggling on Wisps to reduce bandwidth.
 eremite 02/13/24-22:31:15 Disable object sync on biolum when not emitting to save bandwidth.
 eremite 02/13/24-16:46:01 Starting to collect drawings for art room
