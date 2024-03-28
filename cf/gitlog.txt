@@ -1,3 +1,5 @@
+eremite 03/28/24-13:10:10 .
+eremite 03/28/24-13:09:42 Update SDK
 eremite 02/24/24-02:16:02 Dialogue tweaks
 eremite 02/24/24-02:15:50 Update SDK
 eremite 02/20/24-02:07:09 Butterfly particle mat shader, roughing in Dialogue System, entry queue optimizations, art room deco
@@ -246,5 +248,3 @@ eremite 01/02/23-11:45:57 ready to push again
 eremite 01/02/23-11:26:32 Fix underwater pre-bake
 eremite 01/02/23-10:43:46 Built new probes for all the lilypads - time to bake.
 eremite 01/02/23-09:29:41 updated wisps with a following deadzone
-eremite 01/01/23-20:44:46 wisps hopefully fixed for good.
-eremite 01/01/23-20:36:22 maybe fix syncing wisps a bit when people leave.
