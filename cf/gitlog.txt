@@ -1,3 +1,6 @@
+eremite 06/01/24-12:14:25 Fixing Double-Jump controller, I think.
+eremite 06/01/24-08:08:03 mostly working aurora shader
+eremite 05/31/24-16:00:31 Update SDK
 eremite 03/28/24-13:10:10 .
 eremite 03/28/24-13:09:42 Update SDK
 eremite 02/24/24-02:16:02 Dialogue tweaks
@@ -245,6 +248,3 @@ eremite 01/02/23-18:03:58 change floatybed pickup to water layer so tethers can'
 eremite 01/02/23-17:35:34 Double Jump + Frog Anims for activation
 eremite 01/02/23-12:46:47 compressing & fixing tether onto wisp collider.
 eremite 01/02/23-11:45:57 ready to push again
-eremite 01/02/23-11:26:32 Fix underwater pre-bake
-eremite 01/02/23-10:43:46 Built new probes for all the lilypads - time to bake.
-eremite 01/02/23-09:29:41 updated wisps with a following deadzone

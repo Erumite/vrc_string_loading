@@ -1,3 +1,6 @@
+eremite 06/01/24-12:14:25 Fixing Double-Jump controller, I think.
+eremite 06/01/24-08:08:03 mostly working aurora shader
+eremite 05/31/24-16:00:31 Update SDK
 eremite 03/28/24-13:10:10 .
 eremite 03/28/24-13:09:42 Update SDK
 eremite 02/24/24-02:16:02 Dialogue tweaks
