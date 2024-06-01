@@ -1,3 +1,7 @@
+eremite 06/01/24-16:41:32 More Variants
+eremite 06/01/24-16:39:22 Working Aurora in Weather System
+eremite 06/01/24-13:46:42 Aurora Mesh & Weather System Prep
+eremite 06/01/24-12:21:35 Improvements on sparsity calculations on Aurora shader
 eremite 06/01/24-12:14:25 Fixing Double-Jump controller, I think.
 eremite 06/01/24-08:08:03 mostly working aurora shader
 eremite 05/31/24-16:00:31 Update SDK
@@ -244,7 +248,3 @@ eremite 01/03/23-11:40:52 Optimizations to DoubleJump to remove the Update() loo
 eremite 01/02/23-22:33:33 Fix frog animations & maybe the rabbit collider trigger
 eremite 01/02/23-19:47:48 push to VRC
 eremite 01/02/23-19:43:11 New Wisp Model + Lookat
-eremite 01/02/23-18:03:58 change floatybed pickup to water layer so tethers can't grab it.
-eremite 01/02/23-17:35:34 Double Jump + Frog Anims for activation
-eremite 01/02/23-12:46:47 compressing & fixing tether onto wisp collider.
-eremite 01/02/23-11:45:57 ready to push again

@@ -1,3 +1,7 @@
+eremite 06/01/24-16:41:32 More Variants
+eremite 06/01/24-16:39:22 Working Aurora in Weather System
+eremite 06/01/24-13:46:42 Aurora Mesh & Weather System Prep
+eremite 06/01/24-12:21:35 Improvements on sparsity calculations on Aurora shader
 eremite 06/01/24-12:14:25 Fixing Double-Jump controller, I think.
 eremite 06/01/24-08:08:03 mostly working aurora shader
 eremite 05/31/24-16:00:31 Update SDK
