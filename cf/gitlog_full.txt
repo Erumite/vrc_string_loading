@@ -1,3 +1,5 @@
+eremite 06/13/24-21:14:52 Working Campfire Feeder Logs(?)
+eremite 06/13/24-19:43:50 Mostly working campfire.  Before logic cleanup.
 eremite 06/13/24-19:01:46 Pre Unity Upgrade Backup
 eremite 06/13/24-18:24:34 Working on Udon logic for CampFire
 eremite 06/12/24-22:07:07 Campfire Animator work Done?

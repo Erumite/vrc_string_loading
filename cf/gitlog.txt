@@ -1,3 +1,5 @@
+eremite 06/13/24-21:14:52 Working Campfire Feeder Logs(?)
+eremite 06/13/24-19:43:50 Mostly working campfire.  Before logic cleanup.
 eremite 06/13/24-19:01:46 Pre Unity Upgrade Backup
 eremite 06/13/24-18:24:34 Working on Udon logic for CampFire
 eremite 06/12/24-22:07:07 Campfire Animator work Done?
@@ -246,5 +248,3 @@ eremite 01/06/23-01:29:43 Pushed & afterward fixed water splash collider grappli
 eremite 01/06/23-00:58:02 modeled up a tree house.
 eremite 01/05/23-16:47:19 Fix for spirit rabbit and wisp respawn
 eremite 01/04/23-23:03:34 apparently something changed in the unity file during the last push.
-eremite 01/04/23-23:01:42 updating debugLog system for all the scripts missing it (hopefully)
-eremite 01/04/23-22:48:35 Splash sounds and starting to set up octopus/jumpdash
