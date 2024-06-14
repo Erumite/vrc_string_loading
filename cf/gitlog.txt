@@ -1,3 +1,9 @@
+eremite 06/13/24-19:01:46 Pre Unity Upgrade Backup
+eremite 06/13/24-18:24:34 Working on Udon logic for CampFire
+eremite 06/12/24-22:07:07 Campfire Animator work Done?
+eremite 06/12/24-05:02:13 Chairs on benches for DT, fix for AvatarHeightChange bug, continued work on campfire
+eremite 06/01/24-16:53:54 Build & Upload
+eremite 06/01/24-16:42:19 Supersampled UI Shader
 eremite 06/01/24-16:41:32 More Variants
 eremite 06/01/24-16:39:22 Working Aurora in Weather System
 eremite 06/01/24-13:46:42 Aurora Mesh & Weather System Prep
@@ -242,9 +248,3 @@ eremite 01/05/23-16:47:19 Fix for spirit rabbit and wisp respawn
 eremite 01/04/23-23:03:34 apparently something changed in the unity file during the last push.
 eremite 01/04/23-23:01:42 updating debugLog system for all the scripts missing it (hopefully)
 eremite 01/04/23-22:48:35 Splash sounds and starting to set up octopus/jumpdash
-eremite 01/03/23-20:49:07 Logic for JumpDash added to DoubleJumpController
-eremite 01/03/23-20:48:05 NoRespawnZone sample and fiddling with the start of a fishing system.
-eremite 01/03/23-11:40:52 Optimizations to DoubleJump to remove the Update() loop
-eremite 01/02/23-22:33:33 Fix frog animations & maybe the rabbit collider trigger
-eremite 01/02/23-19:47:48 push to VRC
-eremite 01/02/23-19:43:11 New Wisp Model + Lookat

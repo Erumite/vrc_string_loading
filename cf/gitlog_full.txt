@@ -1,3 +1,9 @@
+eremite 06/13/24-19:01:46 Pre Unity Upgrade Backup
+eremite 06/13/24-18:24:34 Working on Udon logic for CampFire
+eremite 06/12/24-22:07:07 Campfire Animator work Done?
+eremite 06/12/24-05:02:13 Chairs on benches for DT, fix for AvatarHeightChange bug, continued work on campfire
+eremite 06/01/24-16:53:54 Build & Upload
+eremite 06/01/24-16:42:19 Supersampled UI Shader
 eremite 06/01/24-16:41:32 More Variants
 eremite 06/01/24-16:39:22 Working Aurora in Weather System
 eremite 06/01/24-13:46:42 Aurora Mesh & Weather System Prep
