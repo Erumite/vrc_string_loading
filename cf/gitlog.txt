@@ -1,3 +1,5 @@
+eremite 06/14/24-19:41:06 Built & Pushed again with sync fix, maybe.
+eremite 06/13/24-21:30:13 UPLOAD to check networking.
 eremite 06/13/24-21:14:52 Working Campfire Feeder Logs(?)
 eremite 06/13/24-19:43:50 Mostly working campfire.  Before logic cleanup.
 eremite 06/13/24-19:01:46 Pre Unity Upgrade Backup
@@ -246,5 +248,3 @@ eremite 01/06/23-19:35:59 123
 eremite 01/06/23-19:35:38 Lilypad color blindness fix + grass mesh + xiexe grass + grass/rock mesh cleanup.
 eremite 01/06/23-01:29:43 Pushed & afterward fixed water splash collider grappling.
 eremite 01/06/23-00:58:02 modeled up a tree house.
-eremite 01/05/23-16:47:19 Fix for spirit rabbit and wisp respawn
-eremite 01/04/23-23:03:34 apparently something changed in the unity file during the last push.
