@@ -1,3 +1,6 @@
+eremite 10/09/24-13:25:50 Update SDK
+eremite 06/21/24-21:09:49 grass and fix client sim settings
+eremite 06/19/24-04:32:10 Fix Campfire Burnout & Stray test log floating around, lol
 eremite 06/14/24-19:41:06 Built & Pushed again with sync fix, maybe.
 eremite 06/13/24-21:30:13 UPLOAD to check networking.
 eremite 06/13/24-21:14:52 Working Campfire Feeder Logs(?)
@@ -245,6 +248,3 @@ eremite 01/06/23-21:03:03 Add Silent's foliage shader
 eremite 01/06/23-20:23:55 pushed update
 eremite 01/06/23-19:51:23 adjust mats and bake settings before rebake
 eremite 01/06/23-19:35:59 123
-eremite 01/06/23-19:35:38 Lilypad color blindness fix + grass mesh + xiexe grass + grass/rock mesh cleanup.
-eremite 01/06/23-01:29:43 Pushed & afterward fixed water splash collider grappling.
-eremite 01/06/23-00:58:02 modeled up a tree house.
