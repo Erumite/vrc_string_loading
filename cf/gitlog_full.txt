@@ -1,3 +1,6 @@
+eremite 11/09/24-19:10:03 Update SDK
+eremite 10/29/24-09:27:14 Update texture and menu shader values based on SDK suggestions & Upload.
+eremite 10/29/24-09:08:04 Reimport fucking everything to fix VSCode completion and hopefully fix turtle spinning for VR users.
 eremite 10/29/24-06:02:53 Package Updates
 eremite 10/29/24-06:00:01 Update SDK
 eremite 10/09/24-13:25:50 Update SDK

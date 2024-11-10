@@ -1,3 +1,6 @@
+eremite 11/09/24-19:10:03 Update SDK
+eremite 10/29/24-09:27:14 Update texture and menu shader values based on SDK suggestions & Upload.
+eremite 10/29/24-09:08:04 Reimport fucking everything to fix VSCode completion and hopefully fix turtle spinning for VR users.
 eremite 10/29/24-06:02:53 Package Updates
 eremite 10/29/24-06:00:01 Update SDK
 eremite 10/09/24-13:25:50 Update SDK
@@ -245,6 +248,3 @@ eremite 01/06/23-22:30:01 Adding grass mat to versioning.
 eremite 01/06/23-22:29:10 break up grass for occlusion optimizations.
 eremite 01/06/23-21:57:58 push + minor changes to grass mesh again.
 eremite 01/06/23-21:35:08 more grass mesh cleanup
-eremite 01/06/23-21:03:31 edit grass mesh
-eremite 01/06/23-21:03:03 Add Silent's foliage shader
-eremite 01/06/23-20:23:55 pushed update
