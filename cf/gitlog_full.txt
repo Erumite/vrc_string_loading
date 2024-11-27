@@ -1,3 +1,5 @@
+eremite 11/27/24-05:35:20 Update Amplify & Bakery
+eremite 11/27/24-05:32:03 Update SDK
 eremite 11/09/24-19:10:03 Update SDK
 eremite 10/29/24-09:27:14 Update texture and menu shader values based on SDK suggestions & Upload.
 eremite 10/29/24-09:08:04 Reimport fucking everything to fix VSCode completion and hopefully fix turtle spinning for VR users.
