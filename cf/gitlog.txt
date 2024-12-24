@@ -1,3 +1,6 @@
+eremite 12/24/24-02:36:54 Hopefully fixed persistence for unlocks?
+eremite 12/24/24-01:40:28 Remove some examples from git tracking :D
+eremite 12/24/24-01:36:56 Mesh Tweaks + Save point before persistence work.
 eremite 11/27/24-05:35:20 Update Amplify & Bakery
 eremite 11/27/24-05:32:03 Update SDK
 eremite 11/09/24-19:10:03 Update SDK
@@ -245,6 +248,3 @@ eremite 01/08/23-05:04:15 probes pre-rebake
 eremite 01/08/23-04:38:25 Movie cave set up - pre-bake
 eremite 01/08/23-02:02:06 Movie room and extra exit
 eremite 01/06/23-23:11:56 cleanup todo
-eremite 01/06/23-22:46:19 added grass with occlusion
-eremite 01/06/23-22:30:01 Adding grass mat to versioning.
-eremite 01/06/23-22:29:10 break up grass for occlusion optimizations.
