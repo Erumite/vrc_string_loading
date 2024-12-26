@@ -1,3 +1,4 @@
+eremite 12/26/24-01:36:06 Animal placement tweak in menu & reimport all to fix a weird laggy editor
 eremite 12/26/24-01:06:44 Updating some packages
 eremite 12/25/24-22:13:13 Fix Z-Fighting on dandelion heads and make parkour lilies easier.
 eremite 12/25/24-09:54:01 More menu fiddling and adding some image resources.
@@ -247,4 +248,3 @@ eremite 01/10/23-15:34:13 I think I changed some stuff and the wireframe shader 
 eremite 01/08/23-21:06:42 publish
 eremite 01/08/23-20:44:44 ready for bake
 eremite 01/08/23-20:31:27 add stairs
-eremite 01/08/23-16:28:46 pushed update
