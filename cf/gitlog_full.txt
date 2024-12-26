@@ -1,3 +1,9 @@
+eremite 12/26/24-01:06:44 Updating some packages
+eremite 12/25/24-22:13:13 Fix Z-Fighting on dandelion heads and make parkour lilies easier.
+eremite 12/25/24-09:54:01 More menu fiddling and adding some image resources.
+eremite 12/25/24-09:09:44 Adding breath to stats and slight status menu tweaks for new feature.
+eremite 12/24/24-04:10:27 More persistence tweaking.
+eremite 12/24/24-03:09:24 Bake lights after mesh updates. :D
 eremite 12/24/24-03:00:36 I am once again trying to fix this god damn turtle
 eremite 12/24/24-02:36:54 Hopefully fixed persistence for unlocks?
 eremite 12/24/24-01:40:28 Remove some examples from git tracking :D
