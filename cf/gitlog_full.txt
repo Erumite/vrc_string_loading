@@ -1,3 +1,4 @@
+eremite 12/27/24-15:06:31 .gitignore SerializedUdonPrograms
 eremite 12/27/24-15:05:11 Squashing a couple bugs in dialogue system
 eremite 12/27/24-14:38:51 Working Transition in/out animations for speech bubbles.
 eremite 12/27/24-12:24:47 Time to start working on dialogue transition animations -_-
