@@ -1,3 +1,4 @@
+eremite 12/27/24-15:05:11 Squashing a couple bugs in dialogue system
 eremite 12/27/24-14:38:51 Working Transition in/out animations for speech bubbles.
 eremite 12/27/24-12:24:47 Time to start working on dialogue transition animations -_-
 eremite 12/27/24-11:32:07 Derped my heirarchy.
@@ -247,4 +248,3 @@ eremite 01/15/23-03:29:42 Menu spawning/positioning good now.
 eremite 01/14/23-20:58:02 Add _SPECULARHIGHLIGHTS_OFF to video player screen shader to avoid weird discoloration
 eremite 01/14/23-19:40:29 Hopefully working custom wisps + some visual tweaks to menu.
 eremite 01/14/23-07:59:22 Yet more menu work.  There's no end in sight. D:
-eremite 01/14/23-06:31:59 Making more menu icons and getting layouts in place for status page
