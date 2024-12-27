@@ -1,3 +1,4 @@
+eremite 12/27/24-14:38:51 Working Transition in/out animations for speech bubbles.
 eremite 12/27/24-12:24:47 Time to start working on dialogue transition animations -_-
 eremite 12/27/24-11:32:07 Derped my heirarchy.
 eremite 12/27/24-11:12:01 Uploading a test version of the dialogue system base functions to test.
