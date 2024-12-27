@@ -1,3 +1,6 @@
+eremite 12/27/24-12:24:47 Time to start working on dialogue transition animations -_-
+eremite 12/27/24-11:32:07 Derped my heirarchy.
+eremite 12/27/24-11:12:01 Uploading a test version of the dialogue system base functions to test.
 eremite 12/27/24-10:58:27 More Dialogue stuff + Testing another editor fix.
 eremite 12/27/24-08:28:09 Tweak to dialogue bubble image formatting for more flexibility.
 eremite 12/27/24-05:39:49 Working Typed Text.  ClientSim f***ed me.

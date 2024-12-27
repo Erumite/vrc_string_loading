@@ -1,3 +1,6 @@
+eremite 12/27/24-12:24:47 Time to start working on dialogue transition animations -_-
+eremite 12/27/24-11:32:07 Derped my heirarchy.
+eremite 12/27/24-11:12:01 Uploading a test version of the dialogue system base functions to test.
 eremite 12/27/24-10:58:27 More Dialogue stuff + Testing another editor fix.
 eremite 12/27/24-08:28:09 Tweak to dialogue bubble image formatting for more flexibility.
 eremite 12/27/24-05:39:49 Working Typed Text.  ClientSim f***ed me.
@@ -245,6 +248,3 @@ eremite 01/14/23-19:40:29 Hopefully working custom wisps + some visual tweaks to
 eremite 01/14/23-07:59:22 Yet more menu work.  There's no end in sight. D:
 eremite 01/14/23-06:31:59 Making more menu icons and getting layouts in place for status page
 eremite 01/14/23-03:49:14 Adding menu icons and setting up header section
-eremite 01/13/23-20:42:54 Start setting up wisp menu & add post-commit hooks to KeyBase log
-eremite 01/12/23-20:26:36 Prebake - fiddled with a little menu stuff.
-eremite 01/12/23-15:39:18 Fix spirit animal shader.
