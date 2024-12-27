@@ -1,3 +1,5 @@
+eremite 12/27/24-05:39:49 Working Typed Text.  ClientSim f***ed me.
+eremite 12/27/24-03:56:39 Reimport all + Clear Cache - Unity plz stop crashing.
 eremite 12/27/24-03:49:15 fgsfds
 eremite 12/27/24-03:49:06 Delete vscode remnants & more dialogue testing.
 eremite 12/26/24-12:38:53 More Dialogue System work

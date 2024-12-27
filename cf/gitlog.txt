@@ -1,3 +1,5 @@
+eremite 12/27/24-05:39:49 Working Typed Text.  ClientSim f***ed me.
+eremite 12/27/24-03:56:39 Reimport all + Clear Cache - Unity plz stop crashing.
 eremite 12/27/24-03:49:15 fgsfds
 eremite 12/27/24-03:49:06 Delete vscode remnants & more dialogue testing.
 eremite 12/26/24-12:38:53 More Dialogue System work
@@ -246,5 +248,3 @@ eremite 01/12/23-20:26:36 Prebake - fiddled with a little menu stuff.
 eremite 01/12/23-15:39:18 Fix spirit animal shader.
 eremite 01/11/23-21:30:26 baked all the shit.
 eremite 01/11/23-14:34:18 More Screen Tweaks to get RT GI
-eremite 01/11/23-13:10:19 rebake
-eremite 01/11/23-02:55:43 fiddling with lighting settings - trying bake again
