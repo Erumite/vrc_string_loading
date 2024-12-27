@@ -1,3 +1,5 @@
+eremite 12/27/24-10:58:27 More Dialogue stuff + Testing another editor fix.
+eremite 12/27/24-08:28:09 Tweak to dialogue bubble image formatting for more flexibility.
 eremite 12/27/24-05:39:49 Working Typed Text.  ClientSim f***ed me.
 eremite 12/27/24-03:56:39 Reimport all + Clear Cache - Unity plz stop crashing.
 eremite 12/27/24-03:49:15 fgsfds
@@ -246,5 +248,3 @@ eremite 01/14/23-03:49:14 Adding menu icons and setting up header section
 eremite 01/13/23-20:42:54 Start setting up wisp menu & add post-commit hooks to KeyBase log
 eremite 01/12/23-20:26:36 Prebake - fiddled with a little menu stuff.
 eremite 01/12/23-15:39:18 Fix spirit animal shader.
-eremite 01/11/23-21:30:26 baked all the shit.
-eremite 01/11/23-14:34:18 More Screen Tweaks to get RT GI
