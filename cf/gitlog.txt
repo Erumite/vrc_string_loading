@@ -1,3 +1,4 @@
+eremite 12/28/24-09:52:28 Git plugins just ignored some crap, apparently.
 eremite 12/28/24-09:50:51 Text Animations created & in animator.
 eremite 12/28/24-04:24:50 Another spam-clicking bug fix.
 eremite 12/28/24-03:39:50 Audio in dialogue update & some weird spam-click problems fixed(?)
@@ -247,4 +248,3 @@ eremite 01/16/23-23:24:47 Add save success/fail sounds
 eremite 01/16/23-10:01:15 Gotta remember to disable navigation events in UI elements. -_-
 eremite 01/16/23-09:52:27 up to 30 movement unlocks in save string to give expandability
 eremite 01/16/23-09:41:45 steps to hopefully fix duplication of rabbit speed buff when loading settings
-eremite 01/16/23-09:27:29 Working save/load menu screen - just needs an actual save string parser.

@@ -1,3 +1,4 @@
+eremite 12/28/24-09:52:28 Git plugins just ignored some crap, apparently.
 eremite 12/28/24-09:50:51 Text Animations created & in animator.
 eremite 12/28/24-04:24:50 Another spam-clicking bug fix.
 eremite 12/28/24-03:39:50 Audio in dialogue update & some weird spam-click problems fixed(?)
