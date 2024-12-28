@@ -1,3 +1,5 @@
+eremite 12/28/24-15:32:44 udon compile changed some stuff
+eremite 12/28/24-15:32:13 Re-add GitHub extension
 eremite 12/28/24-15:29:28 .idea dir
 eremite 12/28/24-15:29:06 Hacky workaround to weird dialogue text display bugs.
 eremite 12/28/24-15:07:35 Complete nuke of project directory and re-build from assets to fix freezing problems.

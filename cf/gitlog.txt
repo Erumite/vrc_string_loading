@@ -1,3 +1,5 @@
+eremite 12/28/24-15:32:44 udon compile changed some stuff
+eremite 12/28/24-15:32:13 Re-add GitHub extension
 eremite 12/28/24-15:29:28 .idea dir
 eremite 12/28/24-15:29:06 Hacky workaround to weird dialogue text display bugs.
 eremite 12/28/24-15:07:35 Complete nuke of project directory and re-build from assets to fix freezing problems.
@@ -246,5 +248,3 @@ eremite 01/23/23-08:05:23 Octopus up and running with chase sequence
 eremite 01/22/23-14:53:05 rework of movement system to be buff based for save integrity
 eremite 01/20/23-04:03:03 light probes for sea stacks + pre-bake commit
 eremite 01/20/23-01:45:34 Tweaks to the seastack jumping puzzle & fixing octopus model.
-eremite 01/19/23-15:15:56 Upload & fix octopus animation looping
-eremite 01/19/23-14:45:30 Adding sea stacks for squid-boi.
