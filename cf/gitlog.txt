@@ -1,3 +1,5 @@
+eremite 12/28/24-15:29:28 .idea dir
+eremite 12/28/24-15:29:06 Hacky workaround to weird dialogue text display bugs.
 eremite 12/28/24-15:07:35 Complete nuke of project directory and re-build from assets to fix freezing problems.
 eremite 12/28/24-13:56:49 Squishin' Dialogue Bugs
 eremite 12/28/24-13:18:45 Text animated transitions coded.
@@ -246,5 +248,3 @@ eremite 01/20/23-04:03:03 light probes for sea stacks + pre-bake commit
 eremite 01/20/23-01:45:34 Tweaks to the seastack jumping puzzle & fixing octopus model.
 eremite 01/19/23-15:15:56 Upload & fix octopus animation looping
 eremite 01/19/23-14:45:30 Adding sea stacks for squid-boi.
-eremite 01/17/23-16:01:00 Adding logit to keep menu from going into the ground for short avatars/crouching people.  Also some fishing poking.
-eremite 01/17/23-03:02:00 Grapple->Jump working.  Needs an unlock to be usable in world. :D
