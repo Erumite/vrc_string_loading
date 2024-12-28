@@ -1,3 +1,7 @@
+eremite 12/28/24-15:07:35 Complete nuke of project directory and re-build from assets to fix freezing problems.
+eremite 12/28/24-13:56:49 Squishin' Dialogue Bugs
+eremite 12/28/24-13:18:45 Text animated transitions coded.
+eremite 12/28/24-11:22:42 Rewrite/reorg of dialogue writing function to support new animations as an option.
 eremite 12/28/24-09:52:28 Git plugins just ignored some crap, apparently.
 eremite 12/28/24-09:50:51 Text Animations created & in animator.
 eremite 12/28/24-04:24:50 Another spam-clicking bug fix.
