@@ -1,3 +1,5 @@
+eremite 12/28/24-09:50:51 Text Animations created & in animator.
+eremite 12/28/24-04:24:50 Another spam-clicking bug fix.
 eremite 12/28/24-03:39:50 Audio in dialogue update & some weird spam-click problems fixed(?)
 eremite 12/28/24-01:57:12 Save point before I start breaking stuff to fix this editor lag.
 eremite 12/28/24-01:48:16 Updating packages

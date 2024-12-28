@@ -1,3 +1,5 @@
+eremite 12/28/24-09:50:51 Text Animations created & in animator.
+eremite 12/28/24-04:24:50 Another spam-clicking bug fix.
 eremite 12/28/24-03:39:50 Audio in dialogue update & some weird spam-click problems fixed(?)
 eremite 12/28/24-01:57:12 Save point before I start breaking stuff to fix this editor lag.
 eremite 12/28/24-01:48:16 Updating packages
@@ -246,5 +248,3 @@ eremite 01/16/23-10:01:15 Gotta remember to disable navigation events in UI elem
 eremite 01/16/23-09:52:27 up to 30 movement unlocks in save string to give expandability
 eremite 01/16/23-09:41:45 steps to hopefully fix duplication of rabbit speed buff when loading settings
 eremite 01/16/23-09:27:29 Working save/load menu screen - just needs an actual save string parser.
-eremite 01/16/23-06:32:45 Buffs Menu working.
-eremite 01/16/23-04:49:17 Fix tethering to wisp menu interact & to menu.
