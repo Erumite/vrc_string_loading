@@ -1,3 +1,8 @@
+eremite 12/28/24-01:57:12 Save point before I start breaking stuff to fix this editor lag.
+eremite 12/28/24-01:48:16 Updating packages
+eremite 12/27/24-17:01:11 LookAt now works without a reference object using tracking data.
+eremite 12/27/24-16:40:38 Fix Dialogue anchor rotation & add LookAtPlayer functionality.
+eremite 12/27/24-15:37:00 Rider keeps mangling my open curly braces.
 eremite 12/27/24-15:06:31 .gitignore SerializedUdonPrograms
 eremite 12/27/24-15:05:11 Squashing a couple bugs in dialogue system
 eremite 12/27/24-14:38:51 Working Transition in/out animations for speech bubbles.
@@ -243,8 +248,3 @@ eremite 01/16/23-09:27:29 Working save/load menu screen - just needs an actual s
 eremite 01/16/23-06:32:45 Buffs Menu working.
 eremite 01/16/23-04:49:17 Fix tethering to wisp menu interact & to menu.
 eremite 01/16/23-04:30:31 [UPLOAD] some menu SFX and status page mostly done on the menu.
-eremite 01/16/23-00:17:20 Doing more menu stuff.  There's so much crap. D:
-eremite 01/15/23-19:06:03 [PUSH] added goober and updated wisp prefabs to summon a useless menu
-eremite 01/15/23-03:29:42 Menu spawning/positioning good now.
-eremite 01/14/23-20:58:02 Add _SPECULARHIGHLIGHTS_OFF to video player screen shader to avoid weird discoloration
-eremite 01/14/23-19:40:29 Hopefully working custom wisps + some visual tweaks to menu.
