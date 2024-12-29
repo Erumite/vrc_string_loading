@@ -1,3 +1,4 @@
+eremite 12/29/24-17:21:38 Update menu to match new controls for Jump->Dash
 eremite 12/29/24-17:04:07 Add some water vegetation and maybe fix turtle.  probably not
 eremite 12/28/24-16:17:54 Got trapped by RunEvent vs SendCustomEvent yet again.
 eremite 12/28/24-15:32:44 udon compile changed some stuff
@@ -247,4 +248,3 @@ eremite 01/23/23-09:57:24 futzing with lilypad textures seeming weird.
 eremite 01/23/23-09:27:45 squirrel & tether-jump unlock
 eremite 01/23/23-08:30:44 Pre-Bake Save
 eremite 01/23/23-08:05:23 Octopus up and running with chase sequence
-eremite 01/22/23-14:53:05 rework of movement system to be buff based for save integrity
