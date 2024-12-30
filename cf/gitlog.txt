@@ -1,3 +1,4 @@
+eremite 12/30/24-12:41:47 Fixing bioluminescence syncing - what was I thinking.
 eremite 12/30/24-11:14:59 Some occlusion optimizations for easter egg. :3
 eremite 12/30/24-10:58:58 MOOOON
 eremite 12/30/24-06:44:12 Optimizations to reduce batching
@@ -247,4 +248,3 @@ eremite 07/02/23-01:32:07 update mathematics package
 eremite 07/01/23-21:21:11 Working crayon + fiddling with compile crash fix.
 eremite 06/30/23-21:40:03 U# settings
 eremite 06/30/23-21:22:36 Update Amplify & Copy over old chroma crayon scripts.
-eremite 06/30/23-14:16:48 hands on movie room ceiling
