@@ -1,3 +1,5 @@
+eremite 12/30/24-10:58:58 MOOOON
+eremite 12/30/24-06:44:12 Optimizations to reduce batching
 eremite 12/30/24-06:42:55 Optimization tweaks - Frame Debugger is so nice.
 eremite 12/30/24-03:57:37 Optimizing occlusion a bit.
 eremite 12/30/24-03:57:16 Remove GitHub plugin as it is kinda janky.
@@ -246,5 +248,3 @@ eremite 06/30/23-21:40:03 U# settings
 eremite 06/30/23-21:22:36 Update Amplify & Copy over old chroma crayon scripts.
 eremite 06/30/23-14:16:48 hands on movie room ceiling
 eremite 06/30/23-14:16:24 Update Packages
-eremite 06/26/23-02:35:26 Update AUD
-eremite 06/19/23-22:16:37 update packages
