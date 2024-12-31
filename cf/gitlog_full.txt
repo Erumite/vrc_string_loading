@@ -1,3 +1,4 @@
+eremite 12/31/24-13:17:27 fix for dialogue closing when initiating another dialogue while exit by distance is active
 eremite 12/31/24-12:40:03 Dialogue System "working" - we shall see how many bugs remain.
 eremite 12/30/24-12:41:47 Fixing bioluminescence syncing - what was I thinking.
 eremite 12/30/24-11:14:59 Some occlusion optimizations for easter egg. :3
