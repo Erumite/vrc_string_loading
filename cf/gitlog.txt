@@ -1,3 +1,4 @@
+eremite 12/31/24-14:45:54 Adding a speaker deco to the dialogue box.
 eremite 12/31/24-13:17:27 fix for dialogue closing when initiating another dialogue while exit by distance is active
 eremite 12/31/24-12:40:03 Dialogue System "working" - we shall see how many bugs remain.
 eremite 12/30/24-12:41:47 Fixing bioluminescence syncing - what was I thinking.
@@ -247,4 +248,3 @@ eremite 07/16/23-06:01:17 Working on camcorder setup
 eremite 07/06/23-15:10:12 Fix Octopus animations & starting on Chroma Crayon Setup.
 eremite 07/02/23-01:32:51 UdonSettings
 eremite 07/02/23-01:32:07 update mathematics package
-eremite 07/01/23-21:21:11 Working crayon + fiddling with compile crash fix.
