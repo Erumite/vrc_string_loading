@@ -1,3 +1,4 @@
+eremite 01/01/25-06:57:23 Turtle is now a clock because the rotation was busted - figured out how to fix the rotation problem while changing it, so the islands should sync properly now.  Euler angles, man.
 eremite 12/31/24-16:46:50 Re-import everything & fix a couple bugs with dialogue system.  Why must Unity be such a laggy pile of crap?
 eremite 12/31/24-14:45:54 Adding a speaker deco to the dialogue box.
 eremite 12/31/24-13:17:27 fix for dialogue closing when initiating another dialogue while exit by distance is active
