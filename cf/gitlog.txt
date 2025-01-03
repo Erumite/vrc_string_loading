@@ -1,3 +1,6 @@
+eremite 01/02/25-19:54:48 save point before I start a rewrite of the warp point system
+eremite 01/01/25-13:18:58 Just some code formatting/cleanup.
+eremite 01/01/25-09:35:25 Turtle & Moon Clock
 eremite 01/01/25-06:57:23 Turtle is now a clock because the rotation was busted - figured out how to fix the rotation problem while changing it, so the islands should sync properly now.  Euler angles, man.
 eremite 12/31/24-16:46:50 Re-import everything & fix a couple bugs with dialogue system.  Why must Unity be such a laggy pile of crap?
 eremite 12/31/24-14:45:54 Adding a speaker deco to the dialogue box.
@@ -245,6 +248,3 @@ eremite 11/03/23-23:10:48 Octopus bug fix & fire flowers
 eremite 10/22/23-20:50:39 Update SDK
 eremite 10/16/23-08:08:26 update packages.
 eremite 09/04/23-16:27:12 potential fix for index jumpdash
-eremite 07/16/23-17:58:59 initial working canvas system & change to leaves on tree
-eremite 07/16/23-06:01:17 Working on camcorder setup
-eremite 07/06/23-15:10:12 Fix Octopus animations & starting on Chroma Crayon Setup.
