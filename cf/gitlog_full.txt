@@ -1,3 +1,4 @@
+eremite 01/05/25-21:46:04 Add otter swim unlock & start adding some dialogues
 eremite 01/04/25-16:38:02 Fix local time AM/PM indicator & add debug menu for weather effects
 eremite 01/04/25-03:33:07 Rewrite and rework of Warp system to add persistence
 eremite 01/02/25-19:54:48 save point before I start a rewrite of the warp point system
