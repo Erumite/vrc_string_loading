@@ -1,3 +1,4 @@
+eremite 01/06/25-20:41:20 Octopus dialogue + doublejump/jumpdash reset when swimming - feels good, man
 eremite 01/05/25-21:46:04 Add otter swim unlock & start adding some dialogues
 eremite 01/04/25-16:38:02 Fix local time AM/PM indicator & add debug menu for weather effects
 eremite 01/04/25-03:33:07 Rewrite and rework of Warp system to add persistence
@@ -247,4 +248,3 @@ eremite 11/05/23-04:44:35 grass on sea stacks
 eremite 11/04/23-03:17:12 Remove some dev/debug stuff
 eremite 11/04/23-03:00:48 Add wind flowers
 eremite 11/03/23-23:12:10 delete blend11 file
-eremite 11/03/23-23:10:48 Octopus bug fix & fire flowers
