@@ -1,3 +1,5 @@
+eremite 01/10/25-02:01:38 lightmapping tweaks - pre-bake
+eremite 01/10/25-01:03:06 filling in more environment - pre-bake
 eremite 01/07/25-02:31:29 Bake & Re-Upload
 eremite 01/07/25-02:17:41 Tweaks to the sky island to make it more visible + fog around outer edge to break up skyline
 eremite 01/06/25-20:41:20 Octopus dialogue + doublejump/jumpdash reset when swimming - feels good, man
@@ -246,5 +248,3 @@ eremite 11/05/23-22:59:06 Crystal Changes - May need bake changes after.
 eremite 11/05/23-18:35:48 Floating Islands + Rotation
 eremite 11/05/23-17:03:34 shorter grass on sea stacks
 eremite 11/05/23-17:01:29 depleted spirit animals
-eremite 11/05/23-04:44:35 grass on sea stacks
-eremite 11/04/23-03:17:12 Remove some dev/debug stuff

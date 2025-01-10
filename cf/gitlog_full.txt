@@ -1,3 +1,5 @@
+eremite 01/10/25-02:01:38 lightmapping tweaks - pre-bake
+eremite 01/10/25-01:03:06 filling in more environment - pre-bake
 eremite 01/07/25-02:31:29 Bake & Re-Upload
 eremite 01/07/25-02:17:41 Tweaks to the sky island to make it more visible + fog around outer edge to break up skyline
 eremite 01/06/25-20:41:20 Octopus dialogue + doublejump/jumpdash reset when swimming - feels good, man
