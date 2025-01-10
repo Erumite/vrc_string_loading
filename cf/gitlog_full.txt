@@ -1,3 +1,5 @@
+eremite 01/10/25-13:14:26 commited from wrong directory, lol
+eremite 01/10/25-13:13:32 Save point before working on using PlayerObjects for wisps
 eremite 01/10/25-02:01:38 lightmapping tweaks - pre-bake
 eremite 01/10/25-01:03:06 filling in more environment - pre-bake
 eremite 01/07/25-02:31:29 Bake & Re-Upload
