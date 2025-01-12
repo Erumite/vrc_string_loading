@@ -1,3 +1,4 @@
+eremite 01/11/25-20:11:34 Converted so much stuff over to use Persistent values & despaghettified so much code. Which means it is probably broken AF.
 eremite 01/10/25-13:14:26 commited from wrong directory, lol
 eremite 01/10/25-13:13:32 Save point before working on using PlayerObjects for wisps
 eremite 01/10/25-02:01:38 lightmapping tweaks - pre-bake
@@ -247,4 +248,3 @@ eremite 11/11/23-21:52:27 Fix for reeling in VR
 eremite 11/11/23-06:21:52 fix boulder meshes
 eremite 11/11/23-05:25:26 sky flower + anim fixes & boulders & light bake fix
 eremite 11/05/23-22:59:06 Crystal Changes - May need bake changes after.
-eremite 11/05/23-18:35:48 Floating Islands + Rotation

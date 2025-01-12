@@ -1,3 +1,4 @@
+eremite 01/11/25-20:11:34 Converted so much stuff over to use Persistent values & despaghettified so much code. Which means it is probably broken AF.
 eremite 01/10/25-13:14:26 commited from wrong directory, lol
 eremite 01/10/25-13:13:32 Save point before working on using PlayerObjects for wisps
 eremite 01/10/25-02:01:38 lightmapping tweaks - pre-bake
