@@ -1,3 +1,8 @@
+eremite 02/06/25-16:44:43 Squash some weather bugs & start a player tab for menu.
+eremite 02/04/25-14:58:17 Push to VRC
+eremite 02/04/25-14:57:38 Rain sounds, lilypad LOD distance, fix frog animation
+eremite 01/16/25-02:44:11 build & upload
+eremite 01/16/25-02:39:40 Fix for wisp following too early - Add dialogues to squirrel + spider - Rework the moon clock
 eremite 01/13/25-16:38:06 Fix entry and exit sounds + join particles
 eremite 01/11/25-20:11:34 Converted so much stuff over to use Persistent values & despaghettified so much code. Which means it is probably broken AF.
 eremite 01/10/25-13:14:26 commited from wrong directory, lol

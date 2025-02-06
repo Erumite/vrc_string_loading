@@ -1,3 +1,8 @@
+eremite 02/06/25-16:44:43 Squash some weather bugs & start a player tab for menu.
+eremite 02/04/25-14:58:17 Push to VRC
+eremite 02/04/25-14:57:38 Rain sounds, lilypad LOD distance, fix frog animation
+eremite 01/16/25-02:44:11 build & upload
+eremite 01/16/25-02:39:40 Fix for wisp following too early - Add dialogues to squirrel + spider - Rework the moon clock
 eremite 01/13/25-16:38:06 Fix entry and exit sounds + join particles
 eremite 01/11/25-20:11:34 Converted so much stuff over to use Persistent values & despaghettified so much code. Which means it is probably broken AF.
 eremite 01/10/25-13:14:26 commited from wrong directory, lol
@@ -243,8 +248,3 @@ eremite 11/14/23-08:55:47 more audio - underwater + fix glass shader
 eremite 11/13/23-07:15:01 waves optimization to avoid double position update
 eremite 11/13/23-06:57:21 Working Shore Waves audio.
 eremite 11/13/23-00:45:56 modeling and adding new ramp
-eremite 11/12/23-07:12:30 Fix leaf positioning & VR jumpdash direction
-eremite 11/11/23-22:43:44 potential fix for VR Jumpdash direction
-eremite 11/11/23-21:52:27 Fix for reeling in VR
-eremite 11/11/23-06:21:52 fix boulder meshes
-eremite 11/11/23-05:25:26 sky flower + anim fixes & boulders & light bake fix
