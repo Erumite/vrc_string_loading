@@ -1,3 +1,5 @@
+eremite 02/10/25-15:41:57 more deco
+eremite 02/10/25-01:10:01 lighting interior a bit
 eremite 02/09/25-23:07:36 crunch compression & general world size optimizations
 eremite 02/09/25-18:06:58 adding more deco assets
 eremite 02/09/25-16:49:51 pre-bake save
