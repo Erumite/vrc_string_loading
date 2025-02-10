@@ -1,3 +1,6 @@
+eremite 02/09/25-23:07:36 crunch compression & general world size optimizations
+eremite 02/09/25-18:06:58 adding more deco assets
+eremite 02/09/25-16:49:51 pre-bake save
 eremite 02/09/25-16:23:02 Starting to add a cabin upstairs in the treehouse.
 eremite 02/06/25-16:44:43 Squash some weather bugs & start a player tab for menu.
 eremite 02/04/25-14:58:17 Push to VRC
