@@ -1,3 +1,4 @@
+eremite 02/12/25-22:49:18 trolling kilerbomb a little
 eremite 02/10/25-15:41:57 more deco
 eremite 02/10/25-01:10:01 lighting interior a bit
 eremite 02/09/25-23:07:36 crunch compression & general world size optimizations
@@ -247,4 +248,3 @@ eremite 11/16/23-23:09:28 fgsfds
 eremite 11/16/23-23:09:22 fix stairs & organize falling script
 eremite 11/16/23-22:09:43 blend tweaks + wind in trees
 eremite 11/16/23-06:12:51 Particle Toggles Optimizations
-eremite 11/16/23-00:05:49 Falling sound + new sway shader for flowers
