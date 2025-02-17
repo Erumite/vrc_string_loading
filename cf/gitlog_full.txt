@@ -1,3 +1,4 @@
+eremite 02/17/25-06:21:44 Tip Jar ready for testing -> Upload
 eremite 02/17/25-04:35:25 more tips for the jar
 eremite 02/13/25-01:15:15 git cleanup?
 eremite 02/12/25-22:52:21 include tests folder
