@@ -1,3 +1,5 @@
+eremite 02/18/25-10:23:15 minor cabin decimation & tip jar cleanup
+eremite 02/17/25-23:42:47 cabin mesh fix and download size optimizations
 eremite 02/17/25-06:21:44 Tip Jar ready for testing -> Upload
 eremite 02/17/25-04:35:25 more tips for the jar
 eremite 02/13/25-01:15:15 git cleanup?
