@@ -1,3 +1,5 @@
+eremite 02/19/25-02:08:21 Update tipjar aesthetics
+eremite 02/19/25-01:42:37 creosote the cabin
 eremite 02/19/25-00:47:23 add creosote to fill gaps in treehouse floor + fix some cabin mesh glitches
 eremite 02/18/25-10:23:15 minor cabin decimation & tip jar cleanup
 eremite 02/17/25-23:42:47 cabin mesh fix and download size optimizations
@@ -246,5 +248,3 @@ eremite 11/20/23-09:48:46 C# String Interpolation to improve GarbageCollector pe
 eremite 11/20/23-08:13:25 Working rudimentary swim system - some kinks to work out and fine tune.
 eremite 11/20/23-01:41:02 updates to change log generator
 eremite 11/20/23-01:30:10 Very basic swim system started & tested - Save Point
-eremite 11/19/23-02:20:28 remote string loading of changes/credits
-eremite 11/18/23-16:48:59 crystal anims + pen reset for canvas
