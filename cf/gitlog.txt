@@ -1,3 +1,4 @@
+eremite 02/19/25-00:47:23 add creosote to fill gaps in treehouse floor + fix some cabin mesh glitches
 eremite 02/18/25-10:23:15 minor cabin decimation & tip jar cleanup
 eremite 02/17/25-23:42:47 cabin mesh fix and download size optimizations
 eremite 02/17/25-06:21:44 Tip Jar ready for testing -> Upload
@@ -247,4 +248,3 @@ eremite 11/20/23-01:41:02 updates to change log generator
 eremite 11/20/23-01:30:10 Very basic swim system started & tested - Save Point
 eremite 11/19/23-02:20:28 remote string loading of changes/credits
 eremite 11/18/23-16:48:59 crystal anims + pen reset for canvas
-eremite 11/18/23-10:39:02 bake & push
