@@ -1,3 +1,8 @@
+eremite 02/22/25-12:47:25 more deco
+eremite 02/20/25-11:28:47 add a rain shelter collider to alchemy shop
+eremite 02/20/25-11:22:21 fix mipmap types on some textures
+eremite 02/20/25-11:21:47 fix a weird occlusion/instancing bug with candles
+eremite 02/20/25-10:51:12 Add candles to treehouse for lighting
 eremite 02/19/25-02:08:21 Update tipjar aesthetics
 eremite 02/19/25-01:42:37 creosote the cabin
 eremite 02/19/25-00:47:23 add creosote to fill gaps in treehouse floor + fix some cabin mesh glitches

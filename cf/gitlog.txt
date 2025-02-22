@@ -1,3 +1,8 @@
+eremite 02/22/25-12:47:25 more deco
+eremite 02/20/25-11:28:47 add a rain shelter collider to alchemy shop
+eremite 02/20/25-11:22:21 fix mipmap types on some textures
+eremite 02/20/25-11:21:47 fix a weird occlusion/instancing bug with candles
+eremite 02/20/25-10:51:12 Add candles to treehouse for lighting
 eremite 02/19/25-02:08:21 Update tipjar aesthetics
 eremite 02/19/25-01:42:37 creosote the cabin
 eremite 02/19/25-00:47:23 add creosote to fill gaps in treehouse floor + fix some cabin mesh glitches
@@ -243,8 +248,3 @@ eremite 11/20/23-10:37:29 SerializeFields for EntryQueueManager Spawner Triggers
 eremite 11/20/23-10:16:44 hacky resync for floatybed animator on move
 eremite 11/20/23-09:58:28 More serialize field work on Rabbi+Turtle Sync
 eremite 11/20/23-09:56:18 [SerializeField] for water splashes
-eremite 11/20/23-09:52:27 Octopus spook / chase squence is now local - optimized script a bit.
-eremite 11/20/23-09:48:46 C# String Interpolation to improve GarbageCollector performance.
-eremite 11/20/23-08:13:25 Working rudimentary swim system - some kinks to work out and fine tune.
-eremite 11/20/23-01:41:02 updates to change log generator
-eremite 11/20/23-01:30:10 Very basic swim system started & tested - Save Point
