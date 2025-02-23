@@ -1,3 +1,4 @@
+eremite 02/22/25-21:57:58 bake & upload
 eremite 02/22/25-12:47:25 more deco
 eremite 02/20/25-11:28:47 add a rain shelter collider to alchemy shop
 eremite 02/20/25-11:22:21 fix mipmap types on some textures
