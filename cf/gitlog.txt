@@ -1,3 +1,4 @@
+eremite 02/27/25-17:05:36 Add some lighting to garden pre-bake
 eremite 02/27/25-11:51:40 Add some trellises & upper area of treehouse
 eremite 02/22/25-21:57:58 bake & upload
 eremite 02/22/25-12:47:25 more deco
@@ -247,4 +248,3 @@ eremite 11/20/23-11:00:16 Disable JumpDash and DoubleJump while swimming
 eremite 11/20/23-10:47:05 [SerializeField] for EntryQueueManager
 eremite 11/20/23-10:38:53 [SerializeField] for SpawnPointPositionManager
 eremite 11/20/23-10:37:29 SerializeFields for EntryQueueManager Spawner Triggers
-eremite 11/20/23-10:16:44 hacky resync for floatybed animator on move
