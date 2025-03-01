@@ -1,3 +1,5 @@
+eremite 03/01/25-10:02:12 rebake and upload
+eremite 03/01/25-09:50:56 ladder up to garden & lighting tweaks
 eremite 02/27/25-17:55:04 Bake & upload for testing
 eremite 02/27/25-17:05:36 Add some lighting to garden pre-bake
 eremite 02/27/25-11:51:40 Add some trellises & upper area of treehouse
@@ -246,5 +248,3 @@ eremite 11/22/23-02:48:39 Improved (but still bad) surfacing for swim - breath s
 eremite 11/20/23-12:47:07 More swim system tweaks + notes update
 eremite 11/20/23-11:08:00 [SerializeField] on Wisp Menu
 eremite 11/20/23-11:00:16 Disable JumpDash and DoubleJump while swimming
-eremite 11/20/23-10:47:05 [SerializeField] for EntryQueueManager
-eremite 11/20/23-10:38:53 [SerializeField] for SpawnPointPositionManager
