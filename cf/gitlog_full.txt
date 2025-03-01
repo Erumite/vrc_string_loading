@@ -1,3 +1,4 @@
+eremite 03/01/25-11:48:41 Reimport of filamented to fix some cginc errors
 eremite 03/01/25-10:02:12 rebake and upload
 eremite 03/01/25-09:50:56 ladder up to garden & lighting tweaks
 eremite 02/27/25-17:55:04 Bake & upload for testing
