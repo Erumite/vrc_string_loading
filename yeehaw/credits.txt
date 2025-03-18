@@ -16,6 +16,10 @@ SketchFab Models:
 "oak trees" (https://skfb.ly/6TGAC) by DJMaesen - Creative Commons Attribution 4
 "Hotdog" (https://skfb.ly/6U7KN) by Yacob - Creative Commons Attribution 4
 "CC0 - Toilet Paper Roll" (https://skfb.ly/o8DRs) by plaggy - Creative Commons Attribution
+"Old Wooden Chair" (https://skfb.ly/oDVUV) by MaX3Dd - Creative Commons Attribution
+"Rusty Folding Chairs" (https://skfb.ly/6RPCq) by Oliver Triplett - Creative Commons Attribution
+"Camping Chair" (https://skfb.ly/o7XzI) by lpfeffer - Creative Commons Attribution
+"Fishing Tackle Box" (https://skfb.ly/6ZTsR) by Sebastian Webster - Creative Commons Attribution
 
 
 SFX (FreeSound.org):
@@ -24,3 +28,38 @@ S: car tailgate opening, closing and squeaking.wav by H0ugH | License: Attributi
 S: CarHorn_Quick_stereo_bip.wav by passAirmangrace | License: Attribution 3.0
 S: Firework - Ignite fuze - Take off - Small pop 3.wav by Quistard | License: Attribution 3.0
 S: Small Firework Explosion by TB0Y298 | License: Attribution 4.0
+
+BGM: See Playlist on the Media Player
+Music modified to simulate the sound of FM radio over truck speakers in the woods: 
+  * Dropped frequencies below 350 and above 3500
+  * Amplified frequencies in the ~1500 range
+  * Resampled down to 32k FM Radio bitrate
+  * Reduced noise floor to simulate a clean but degraded signal.
+  * Normalized to get a consistent volume and simulate battery/signal fluctuations.
+
+#-----
+#! /usr/bin/env bash
+[[ -d radio ]] || mkdir radio
+for file in "${@}" ; do
+    outfile="${file##*/}"
+    outfile="${outfile%.*}"
+    ffmpeg -y -loop 1 -i problem.png -i "${file}" \
+        -map 0:v -map 1:a \
+        -c:v libx264 -preset slow \
+        -pix_fmt yuv420p \
+        -crf 28 \
+        -vf "scale=640:360,format=yuv420p" \
+        -tune stillimage \
+        -c:a aac \
+        -af "
+        highpass=f=350,
+        lowpass=f=3500,
+        bandpass=f=1500,
+        aresample=32000,
+        afftdn=nf=-20,
+        loudnorm=I=-16:LRA=11:TP=-1.5
+    " -ar 32000 -b:a 32k -ac 2 -shortest \
+    -movflags +faststart \
+    "radio/${outfile}.mp4"
+done
+#-----
