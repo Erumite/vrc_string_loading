@@ -1,4 +1,10 @@
-Hopefully this is all of them.
+Hopefully this is everything.
+
+Shaders:
+Filamented by s-ilent : https://s-ilent.booth.pm/items/3250389  (on darn near everything you see here)
+Simple Water FX by Tsuna : https://booth.pm/ja/items/3259425 (Water Surface)
+Water Shader by mochi : https://github.com/MochiesCode/Mochies-Unity-Shaders (underwater)
+BeamLight Shader by noriben : https://noriben3.gumroad.com/l/beamlight (Headlights)
 
 SketchFab Models:
 
@@ -20,6 +26,7 @@ SketchFab Models:
 "Rusty Folding Chairs" (https://skfb.ly/6RPCq) by Oliver Triplett - Creative Commons Attribution
 "Camping Chair" (https://skfb.ly/o7XzI) by lpfeffer - Creative Commons Attribution
 "Fishing Tackle Box" (https://skfb.ly/6ZTsR) by Sebastian Webster - Creative Commons Attribution
+"Stick" (https://skfb.ly/6WOXJ) by kayra23 - Creative Commons Attribution-ShareAlike
 
 
 SFX (FreeSound.org):
@@ -28,6 +35,11 @@ S: car tailgate opening, closing and squeaking.wav by H0ugH | License: Attributi
 S: CarHorn_Quick_stereo_bip.wav by passAirmangrace | License: Attribution 3.0
 S: Firework - Ignite fuze - Take off - Small pop 3.wav by Quistard | License: Attribution 3.0
 S: Small Firework Explosion by TB0Y298 | License: Attribution 4.0
+
+Misc:
+Various Shooting Targets from NSSF - https://www.nssf.org/shooting/targets/
+VideoTXL : https://github.com/vrctxl/VideoTXL
+
 
 BGM: See Playlist on the Media Player
 Music modified to simulate the sound of FM radio over truck speakers in the woods: 
