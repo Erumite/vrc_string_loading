@@ -1,3 +1,4 @@
+eremite 05/27/25-05:08:48 update SDK & add VRC Light Volumes package
 eremite 03/18/25-13:05:20 Update Packages
 eremite 03/01/25-11:48:41 Reimport of filamented to fix some cginc errors
 eremite 03/01/25-10:02:12 rebake and upload
