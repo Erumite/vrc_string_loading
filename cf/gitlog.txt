@@ -1,3 +1,4 @@
+eremite 10/15/25-22:56:43 working on wind system
 eremite 10/12/25-04:16:36 add some more effects
 eremite 08/23/25-13:31:51 cave flowers + pre-bake
 eremite 08/09/25-09:03:27 update sdk
@@ -247,4 +248,3 @@ eremite 11/22/23-12:22:19 Swim System Bug Squashing
 eremite 11/22/23-11:44:18 Consistently better surface detection & locking for swimming
 eremite 11/22/23-05:04:04 *actually* fix the color
 eremite 11/22/23-05:00:55 Fix wisp color-setting to avoid that weird candy-cane look.
-eremite 11/22/23-04:57:44 Crunch Compression & Size optimizations on flower textures
