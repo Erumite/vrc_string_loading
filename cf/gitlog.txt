@@ -1,3 +1,6 @@
+eremite 11/12/25-11:20:57 update packages and start work on dialogue translation options
+eremite 10/18/25-00:18:17 convert to filamented shader
+eremite 10/18/25-00:13:32 Weather system partial rewrite to use callbacks
 eremite 10/17/25-13:07:17 working weathervane + bubbles
 eremite 10/15/25-22:56:43 working on wind system
 eremite 10/12/25-04:16:36 add some more effects
@@ -245,6 +248,3 @@ eremite 11/22/23-13:34:42 Fix for slow wading speed.
 eremite 11/22/23-13:09:50 Fix change log update script to be executable with git-bash
 eremite 11/22/23-13:05:07 Build & Upload
 eremite 11/22/23-13:01:07 Small deco tweaks & rebake
-eremite 11/22/23-12:22:19 Swim System Bug Squashing
-eremite 11/22/23-11:44:18 Consistently better surface detection & locking for swimming
-eremite 11/22/23-05:04:04 *actually* fix the color
