@@ -1,3 +1,4 @@
+eremite 12/19/25-10:50:48 update packages
 eremite 11/12/25-11:20:57 update packages and start work on dialogue translation options
 eremite 10/18/25-00:18:17 convert to filamented shader
 eremite 10/18/25-00:13:32 Weather system partial rewrite to use callbacks
