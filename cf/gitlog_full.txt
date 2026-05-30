@@ -1,3 +1,4 @@
+eremite 05/30/26-00:44:40 update deps & remove old Texel folder in favor of package
 eremite 12/19/25-10:50:48 update packages
 eremite 11/12/25-11:20:57 update packages and start work on dialogue translation options
 eremite 10/18/25-00:18:17 convert to filamented shader
