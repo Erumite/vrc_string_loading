@@ -1,3 +1,9 @@
+eremite 06/08/26-09:50:57 more movie room deco work
+eremite 06/08/26-06:35:20 Movie Room make-over
+eremite 06/06/26-03:01:28 Tweaks to autoprobe + VRCLV combo
+eremite 06/06/26-02:12:58 update filamented to support lightvolumes + start swapping to LVs
+eremite 06/05/26-02:12:45 SwimDashing + menu updates + fix rabbit sound
+eremite 06/03/26-22:32:32 work on jump-locking main cave + update bakery
 eremite 06/03/26-19:06:55 bgm slider + fade in/out with video player end/start
 eremite 05/30/26-00:44:40 update deps & remove old Texel folder in favor of package
 eremite 12/19/25-10:50:48 update packages
