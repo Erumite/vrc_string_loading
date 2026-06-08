@@ -1,3 +1,5 @@
+eremite 06/08/26-12:05:33 More deco + material tweaks
+eremite 06/08/26-10:38:15 patch bakery
 eremite 06/08/26-09:50:57 more movie room deco work
 eremite 06/08/26-06:35:20 Movie Room make-over
 eremite 06/06/26-03:01:28 Tweaks to autoprobe + VRCLV combo
@@ -246,5 +248,3 @@ eremite 11/24/23-12:31:06 light probe work on floating island
 eremite 11/24/23-12:08:22 Pre-Bake
 eremite 11/24/23-06:57:09 Occlusion bake & menu stuff.
 eremite 11/23/23-11:05:21 fiddling with menu decor
-eremite 11/23/23-09:19:22 pitch shifting swim SFX + movement tweaks
-eremite 11/22/23-21:20:32 More menu work and audio optimizations to load in BG

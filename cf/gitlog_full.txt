@@ -1,3 +1,5 @@
+eremite 06/08/26-12:05:33 More deco + material tweaks
+eremite 06/08/26-10:38:15 patch bakery
 eremite 06/08/26-09:50:57 more movie room deco work
 eremite 06/08/26-06:35:20 Movie Room make-over
 eremite 06/06/26-03:01:28 Tweaks to autoprobe + VRCLV combo
