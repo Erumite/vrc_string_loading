@@ -1,3 +1,5 @@
+eremite 06/09/26-08:13:14 Code cleanup + fishing hut deco/door.
+eremite 06/09/26-01:47:25 light map optimizations + minor fixes + cabin light probes & deco
 eremite 06/08/26-12:05:33 More deco + material tweaks
 eremite 06/08/26-10:38:15 patch bakery
 eremite 06/08/26-09:50:57 more movie room deco work
