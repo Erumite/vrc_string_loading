@@ -1,3 +1,4 @@
+eremite 06/14/26-18:11:03 swimdash quest + entry intro dialogue
 eremite 06/10/26-13:49:53 more turtle fixes
 eremite 06/10/26-12:50:32 rework the turtle platform script & add a teleporter to it
 eremite 06/09/26-08:13:14 Code cleanup + fishing hut deco/door.
@@ -247,4 +248,3 @@ eremite 11/27/23-19:23:14 Fixing Lights/particles that EZ Scatter scaled oddly.
 eremite 11/27/23-05:40:14 fix collider layers on octopus to avoid grappling them.
 eremite 11/26/23-14:49:24 Pre-Bake + Fix-slowdown on lilypads & cave mesh dipping
 eremite 11/26/23-13:11:30 Fix bug with drowning sounds playing still after getting breath.
-eremite 11/25/23-04:42:47 lighting probe fixes - PreBake
