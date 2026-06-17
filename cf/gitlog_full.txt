@@ -1,3 +1,4 @@
+eremite 06/17/26-13:50:43 fix the environment mesh
 eremite 06/14/26-18:11:03 swimdash quest + entry intro dialogue
 eremite 06/10/26-13:49:53 more turtle fixes
 eremite 06/10/26-12:50:32 rework the turtle platform script & add a teleporter to it
